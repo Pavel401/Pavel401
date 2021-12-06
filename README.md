@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavel401" alt="pavel401" /></a> </p>
 
-- 🔭 I’m currently working on [Rainbow](https://github.com/Pavel401/rainbow)
+- 🔭 I’m currently working on [Rainbow](https://github.com/Pavel401/RainBow--PUBLIC)
 
 - 🌱 I’m currently learning **Flutter,Python,CP**
 
