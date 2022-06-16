@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on [Evently](https://github.com/Pavel401/DartFlix)
+🔭 I’m currently working on [Evently](https://github.com/Project-Evently)
 
 🌱 I’m currently learning Flutter, Python,CP
 
