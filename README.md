@@ -1,4 +1,9 @@
+<h1 align="left">Hi 👋, I'm Mabud Alam, Welcome to My GitHub Profile</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+
+
 # 💫About Me :
+
 🔭 I’m currently working on [Evently](https://github.com/Project-Evently)
 
 🌱 I’m currently learning Flutter, Python,CP
