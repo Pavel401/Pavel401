@@ -34,6 +34,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 packages one should not miss — Flutter](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-part-3-2cada233faf?source=rss-b9589dece0d4------2)
+- [What Are the Top Flutter Packages for Speed, Stability, and Productivity? Part-2](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-part-2-66e2d90491be?source=rss-b9589dece0d4------2)
+- [Everything You Need to Know About GestureDetector in Flutter](https://medium.com/@mabud_alam/everything-you-need-to-know-about-gesturedetector-in-flutter-2bd13328f23a?source=rss-b9589dece0d4------2)
+- [What Are the Top Flutter Packages for Speed, Stability and Productivity?Part-1](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-2c4dae8f2c9f?source=rss-b9589dece0d4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
