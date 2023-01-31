@@ -32,8 +32,10 @@
 
 
 # Recent activity ~~so people can stop saying I do nothing~~:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
 # Blog posts
