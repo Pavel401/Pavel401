@@ -31,9 +31,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-Recent activity ~~so people can stop saying I do nothing~~:
+# Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 
