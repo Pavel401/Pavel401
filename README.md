@@ -19,7 +19,7 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
+1. Starred [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)<br>
 2. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
 3. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
 4. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
