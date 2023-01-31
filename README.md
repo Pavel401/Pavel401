@@ -31,6 +31,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+Recent activity ~~so people can stop saying I do nothing~~:
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -40,11 +45,4 @@
 - [What Are the Top Flutter Packages for Speed, Stability and Productivity?Part-1](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-2c4dae8f2c9f?source=rss-b9589dece0d4------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-Recent activity ~~so people can stop saying I do nothing~~:
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
 ---
