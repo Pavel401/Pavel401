@@ -19,8 +19,8 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)<br>
-2. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
+1. Starred [prateekralhan/Cheatsheets-for-AI](https://github.com/prateekralhan/Cheatsheets-for-AI)<br>
+2. Starred [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)<br>
 3. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
 4. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
 5. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
