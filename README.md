@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [Pavel401/promts](https://github.com/Pavel401/promts)<br>
-2. Merged PR [#1](https://github.com/Pavel401/promts/pull/1) in [Pavel401/promts](https://github.com/Pavel401/promts)<br>
-3. Opened PR [#1](https://github.com/Pavel401/promts/pull/1) in [Pavel401/promts](https://github.com/Pavel401/promts)<br>
-4. Pushed 1 commit(s) to [Pavel401/promts](https://github.com/Pavel401/promts)<br>
-5. Created new repository [Pavel401/promts](https://github.com/Pavel401/promts)<br>
+1. Starred [s-ai-kia/sih2k18](https://github.com/s-ai-kia/sih2k18)<br>
+2. Pushed 2 commit(s) to [Pavel401/promts](https://github.com/Pavel401/promts)<br>
+3. Merged PR [#1](https://github.com/Pavel401/promts/pull/1) in [Pavel401/promts](https://github.com/Pavel401/promts)<br>
+4. Opened PR [#1](https://github.com/Pavel401/promts/pull/1) in [Pavel401/promts](https://github.com/Pavel401/promts)<br>
+5. Pushed 1 commit(s) to [Pavel401/promts](https://github.com/Pavel401/promts)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
