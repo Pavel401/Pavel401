@@ -21,9 +21,9 @@ Recent activity ~~so people can stop saying I do nothing~~:
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
 2. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
-3. Created new repository [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
-4. Pushed 11 commit(s) to [Pavel401/FlutGPT](https://github.com/Pavel401/FlutGPT)<br>
-5. Forked [Pavel401/Apktool](https://github.com/Pavel401/Apktool) from [revanced/Apktool](https://github.com/revanced/Apktool)<br>
+3. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
+4. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
+5. Created new repository [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
