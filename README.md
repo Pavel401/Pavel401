@@ -20,10 +20,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 2 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
-2. Pushed 2 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
-3. Merged PR [#1](https://github.com/Pavel401/Dart-Gpt/pull/1) in [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
-4. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
-5. Pushed 1 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
+2. Merged PR [#2](https://github.com/Pavel401/DartGpt/pull/2) in [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+3. Pushed 2 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+4. Pushed 2 commit(s) to [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
+5. Merged PR [#1](https://github.com/Pavel401/Dart-Gpt/pull/1) in [Pavel401/Dart-Gpt](https://github.com/Pavel401/Dart-Gpt)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
