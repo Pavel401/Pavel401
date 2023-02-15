@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Forked [Pavel401/chat_gpt_flutter_experimental](https://github.com/Pavel401/chat_gpt_flutter_experimental) from [hrvojecukman/chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter)<br>
-2. Created new repository [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-3. Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)<br>
-4. Starred [Pavel401/HealthMateApp](https://github.com/Pavel401/HealthMateApp)<br>
-5. Pushed 1 commit(s) to [Pavel401/Dwallpaper](https://github.com/Pavel401/Dwallpaper)<br>
+1. Pushed 3 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+2. Forked [Pavel401/chat_gpt_flutter_experimental](https://github.com/Pavel401/chat_gpt_flutter_experimental) from [hrvojecukman/chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter)<br>
+3. Created new repository [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+4. Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)<br>
+5. Starred [Pavel401/HealthMateApp](https://github.com/Pavel401/HealthMateApp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
