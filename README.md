@@ -20,10 +20,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-2. Pushed 1 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
-3. Pushed 3 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
-4. Forked [Pavel401/chat_gpt_flutter_experimental](https://github.com/Pavel401/chat_gpt_flutter_experimental) from [hrvojecukman/chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter)<br>
-5. Created new repository [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+3. Pushed 1 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+4. Pushed 3 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+5. Forked [Pavel401/chat_gpt_flutter_experimental](https://github.com/Pavel401/chat_gpt_flutter_experimental) from [hrvojecukman/chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
