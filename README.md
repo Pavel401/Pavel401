@@ -22,8 +22,8 @@ Recent activity ~~so people can stop saying I do nothing~~:
 1. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 3. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-4. Pushed 1 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
-5. Pushed 3 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+4. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
