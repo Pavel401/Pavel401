@@ -20,7 +20,7 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+2. Starred [floranguyen0/mmas-money-tracker](https://github.com/floranguyen0/mmas-money-tracker)<br>
 3. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 4. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
