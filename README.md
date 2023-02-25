@@ -19,10 +19,10 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+1. Starred [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)<br>
 2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-3. Starred [floranguyen0/mmas-money-tracker](https://github.com/floranguyen0/mmas-money-tracker)<br>
-4. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+3. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+4. Starred [floranguyen0/mmas-money-tracker](https://github.com/floranguyen0/mmas-money-tracker)<br>
 5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
