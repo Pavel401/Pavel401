@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Created new repository [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-2. Forked [Pavel401/vertical_tabs](https://github.com/Pavel401/vertical_tabs) from [trustmefelix/vertical_tabs](https://github.com/trustmefelix/vertical_tabs)<br>
-3. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+1. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+2. Created new repository [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+3. Forked [Pavel401/vertical_tabs](https://github.com/Pavel401/vertical_tabs) from [trustmefelix/vertical_tabs](https://github.com/trustmefelix/vertical_tabs)<br>
 4. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-5. Starred [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker)<br>
+5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
