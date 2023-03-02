@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [mit-cml/appinventor-sources](https://github.com/mit-cml/appinventor-sources)<br>
-2. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-3. Created new repository [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-4. Forked [Pavel401/vertical_tabs](https://github.com/Pavel401/vertical_tabs) from [trustmefelix/vertical_tabs](https://github.com/trustmefelix/vertical_tabs)<br>
-5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+1. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+2. Starred [mit-cml/appinventor-sources](https://github.com/mit-cml/appinventor-sources)<br>
+3. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+4. Created new repository [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+5. Forked [Pavel401/vertical_tabs](https://github.com/Pavel401/vertical_tabs) from [trustmefelix/vertical_tabs](https://github.com/trustmefelix/vertical_tabs)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
