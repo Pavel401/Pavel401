@@ -21,9 +21,9 @@ Recent activity ~~so people can stop saying I do nothing~~:
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
 2. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-3. Starred [mit-cml/appinventor-sources](https://github.com/mit-cml/appinventor-sources)<br>
-4. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-5. Created new repository [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+3. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+4. Starred [mit-cml/appinventor-sources](https://github.com/mit-cml/appinventor-sources)<br>
+5. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
