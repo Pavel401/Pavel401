@@ -19,8 +19,8 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 55 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-2. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+1. Starred [szaffarano/gotas](https://github.com/szaffarano/gotas)<br>
+2. Pushed 55 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 3. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
 4. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
 5. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
