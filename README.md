@@ -23,7 +23,7 @@ Recent activity ~~so people can stop saying I do nothing~~:
 2. Starred [mrdaemon/taskd-server](https://github.com/mrdaemon/taskd-server)<br>
 3. Starred [szaffarano/gotas](https://github.com/szaffarano/gotas)<br>
 4. Pushed 55 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
+5. Starred [mit-cml/appinventor-sources](https://github.com/mit-cml/appinventor-sources)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
