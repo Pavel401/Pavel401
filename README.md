@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/skull_web](https://github.com/Pavel401/skull_web)<br>
-2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-3. Starred [philipgatzka/docker-taskd](https://github.com/philipgatzka/docker-taskd)<br>
-4. Starred [mrdaemon/taskd-server](https://github.com/mrdaemon/taskd-server)<br>
-5. Starred [szaffarano/gotas](https://github.com/szaffarano/gotas)<br>
+1. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+2. Starred [philipgatzka/docker-taskd](https://github.com/philipgatzka/docker-taskd)<br>
+3. Starred [mrdaemon/taskd-server](https://github.com/mrdaemon/taskd-server)<br>
+4. Starred [szaffarano/gotas](https://github.com/szaffarano/gotas)<br>
+5. Pushed 55 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
