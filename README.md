@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [ajinasokan/flutter_displaymode](https://github.com/ajinasokan/flutter_displaymode)<br>
-2. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
-3. Starred [philipgatzka/docker-taskd](https://github.com/philipgatzka/docker-taskd)<br>
-4. Starred [mrdaemon/taskd-server](https://github.com/mrdaemon/taskd-server)<br>
-5. Starred [szaffarano/gotas](https://github.com/szaffarano/gotas)<br>
+1. Starred [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT)<br>
+2. Starred [ajinasokan/flutter_displaymode](https://github.com/ajinasokan/flutter_displaymode)<br>
+3. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+4. Starred [philipgatzka/docker-taskd](https://github.com/philipgatzka/docker-taskd)<br>
+5. Starred [mrdaemon/taskd-server](https://github.com/mrdaemon/taskd-server)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
