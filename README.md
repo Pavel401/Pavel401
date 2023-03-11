@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Evently-NHCE/Evently-App](https://github.com/Evently-NHCE/Evently-App)<br>
-2. Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)<br>
-3. Starred [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT)<br>
-4. Starred [ajinasokan/flutter_displaymode](https://github.com/ajinasokan/flutter_displaymode)<br>
-5. Pushed 1 commit(s) to [Pavel401/skull](https://github.com/Pavel401/skull)<br>
+1. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Pushed 1 commit(s) to [Evently-NHCE/Evently-App](https://github.com/Evently-NHCE/Evently-App)<br>
+3. Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)<br>
+4. Starred [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT)<br>
+5. Starred [ajinasokan/flutter_displaymode](https://github.com/ajinasokan/flutter_displaymode)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
