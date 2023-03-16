@@ -21,9 +21,9 @@ Recent activity ~~so people can stop saying I do nothing~~:
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 2. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-3. Forked [Pavel401/flutter-github-action](https://github.com/Pavel401/flutter-github-action) from [RobertBrunhage/flutter-github-action](https://github.com/RobertBrunhage/flutter-github-action)<br>
+3. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 4. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+5. Forked [Pavel401/flutter-github-action](https://github.com/Pavel401/flutter-github-action) from [RobertBrunhage/flutter-github-action](https://github.com/RobertBrunhage/flutter-github-action)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
