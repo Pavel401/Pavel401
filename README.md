@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
-2. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-3. Starred [mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)<br>
-4. Starred [Zfinix/tweety](https://github.com/Zfinix/tweety)<br>
-5. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Forked [Pavel401/TabBar-with-Button-Tabs-IOS-style-](https://github.com/Pavel401/TabBar-with-Button-Tabs-IOS-style-) from [afonsocraposo/TabBar-with-Button-Tabs-IOS-style-](https://github.com/afonsocraposo/TabBar-with-Button-Tabs-IOS-style-)<br>
+2. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
+3. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+4. Starred [mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)<br>
+5. Starred [Zfinix/tweety](https://github.com/Zfinix/tweety)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
