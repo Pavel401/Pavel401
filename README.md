@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Forked [Pavel401/TabBar-with-Button-Tabs-IOS-style-](https://github.com/Pavel401/TabBar-with-Button-Tabs-IOS-style-) from [afonsocraposo/TabBar-with-Button-Tabs-IOS-style-](https://github.com/afonsocraposo/TabBar-with-Button-Tabs-IOS-style-)<br>
-2. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
-3. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-4. Starred [mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)<br>
-5. Starred [Zfinix/tweety](https://github.com/Zfinix/tweety)<br>
+1. Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+2. Forked [Pavel401/TabBar-with-Button-Tabs-IOS-style-](https://github.com/Pavel401/TabBar-with-Button-Tabs-IOS-style-) from [afonsocraposo/TabBar-with-Button-Tabs-IOS-style-](https://github.com/afonsocraposo/TabBar-with-Button-Tabs-IOS-style-)<br>
+3. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
+4. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
+5. Starred [mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
