@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-2. Forked [Pavel401/TabBar-with-Button-Tabs-IOS-style-](https://github.com/Pavel401/TabBar-with-Button-Tabs-IOS-style-) from [afonsocraposo/TabBar-with-Button-Tabs-IOS-style-](https://github.com/afonsocraposo/TabBar-with-Button-Tabs-IOS-style-)<br>
-3. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
-4. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
-5. Starred [mehranshoqi/flutter-reflective](https://github.com/mehranshoqi/flutter-reflective)<br>
+1. Starred [THU-EarthInformationScienceLab/Satellite-Instrument-NER](https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER)<br>
+2. Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+3. Forked [Pavel401/TabBar-with-Button-Tabs-IOS-style-](https://github.com/Pavel401/TabBar-with-Button-Tabs-IOS-style-) from [afonsocraposo/TabBar-with-Button-Tabs-IOS-style-](https://github.com/afonsocraposo/TabBar-with-Button-Tabs-IOS-style-)<br>
+4. Created new repository [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
+5. Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
