@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [dreji18/NER-Training-Spacy-3.0](https://github.com/dreji18/NER-Training-Spacy-3.0)<br>
-2. Starred [marcglasberg/fast_immutable_collections](https://github.com/marcglasberg/fast_immutable_collections)<br>
-3. Starred [promptslab/Promptify](https://github.com/promptslab/Promptify)<br>
-4. Starred [THU-EarthInformationScienceLab/Satellite-Instrument-NER](https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER)<br>
-5. Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+1. Pushed 1 commit(s) to [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
+2. Starred [dreji18/NER-Training-Spacy-3.0](https://github.com/dreji18/NER-Training-Spacy-3.0)<br>
+3. Starred [marcglasberg/fast_immutable_collections](https://github.com/marcglasberg/fast_immutable_collections)<br>
+4. Starred [promptslab/Promptify](https://github.com/promptslab/Promptify)<br>
+5. Starred [THU-EarthInformationScienceLab/Satellite-Instrument-NER](https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
