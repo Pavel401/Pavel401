@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Forked [Pavel401/flutter_alarm_clock](https://github.com/Pavel401/flutter_alarm_clock) from [afzalali15/flutter_alarm_clock](https://github.com/afzalali15/flutter_alarm_clock)<br>
-2. Forked [Pavel401/MediumArticles](https://github.com/Pavel401/MediumArticles) from [TomerPacific/MediumArticles](https://github.com/TomerPacific/MediumArticles)<br>
-3. Forked [Pavel401/plus_plugins](https://github.com/Pavel401/plus_plugins) from [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)<br>
-4. Pushed 1 commit(s) to [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
-5. Starred [dreji18/NER-Training-Spacy-3.0](https://github.com/dreji18/NER-Training-Spacy-3.0)<br>
+1. Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
+2. Forked [Pavel401/flutter_alarm_clock](https://github.com/Pavel401/flutter_alarm_clock) from [afzalali15/flutter_alarm_clock](https://github.com/afzalali15/flutter_alarm_clock)<br>
+3. Forked [Pavel401/MediumArticles](https://github.com/Pavel401/MediumArticles) from [TomerPacific/MediumArticles](https://github.com/TomerPacific/MediumArticles)<br>
+4. Forked [Pavel401/plus_plugins](https://github.com/Pavel401/plus_plugins) from [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)<br>
+5. Pushed 1 commit(s) to [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
