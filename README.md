@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
-2. Starred [dreji18/NER-Training-Spacy-3.0](https://github.com/dreji18/NER-Training-Spacy-3.0)<br>
-3. Starred [marcglasberg/fast_immutable_collections](https://github.com/marcglasberg/fast_immutable_collections)<br>
-4. Starred [promptslab/Promptify](https://github.com/promptslab/Promptify)<br>
-5. Starred [THU-EarthInformationScienceLab/Satellite-Instrument-NER](https://github.com/THU-EarthInformationScienceLab/Satellite-Instrument-NER)<br>
+1. Forked [Pavel401/MediumArticles](https://github.com/Pavel401/MediumArticles) from [TomerPacific/MediumArticles](https://github.com/TomerPacific/MediumArticles)<br>
+2. Forked [Pavel401/plus_plugins](https://github.com/Pavel401/plus_plugins) from [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)<br>
+3. Pushed 1 commit(s) to [Pavel401/NextCV](https://github.com/Pavel401/NextCV)<br>
+4. Starred [dreji18/NER-Training-Spacy-3.0](https://github.com/dreji18/NER-Training-Spacy-3.0)<br>
+5. Starred [marcglasberg/fast_immutable_collections](https://github.com/marcglasberg/fast_immutable_collections)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
