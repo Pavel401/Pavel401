@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod)<br>
-2. Starred [adil192/saber](https://github.com/adil192/saber)<br>
-3. Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)<br>
-4. Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
-5. Forked [Pavel401/flutter_alarm_clock](https://github.com/Pavel401/flutter_alarm_clock) from [afzalali15/flutter_alarm_clock](https://github.com/afzalali15/flutter_alarm_clock)<br>
+1. Starred [MohamedAbd0/server_driven_ui_with_mirai](https://github.com/MohamedAbd0/server_driven_ui_with_mirai)<br>
+2. Starred [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod)<br>
+3. Starred [adil192/saber](https://github.com/adil192/saber)<br>
+4. Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)<br>
+5. Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
