@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Ahmed-Shukri02/LeetHub](https://github.com/Ahmed-Shukri02/LeetHub)<br>
-2. Forked [Pavel401/LeetSync](https://github.com/Pavel401/LeetSync) from [3ba2ii/LeetSync](https://github.com/3ba2ii/LeetSync)<br>
+1. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
+2. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 3. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
-4. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
-5. Pushed 2 commit(s) to [Pavel401/LeetHub](https://github.com/Pavel401/LeetHub)<br>
+4. Starred [Ahmed-Shukri02/LeetHub](https://github.com/Ahmed-Shukri02/LeetHub)<br>
+5. Forked [Pavel401/LeetSync](https://github.com/Pavel401/LeetSync) from [3ba2ii/LeetSync](https://github.com/3ba2ii/LeetSync)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
