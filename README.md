@@ -23,7 +23,7 @@ Recent activity ~~so people can stop saying I do nothing~~:
 2. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 3. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 4. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
-5. Starred [Ahmed-Shukri02/LeetHub](https://github.com/Ahmed-Shukri02/LeetHub)<br>
+5. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
