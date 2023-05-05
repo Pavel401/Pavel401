@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [PtPrashantTripathi/linkpe](https://github.com/PtPrashantTripathi/linkpe)<br>
-2. Pushed 1 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
-3. Starred [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)<br>
-4. Starred [weeeBox/awesome-psychology](https://github.com/weeeBox/awesome-psychology)<br>
-5. Starred [dotnet/maui](https://github.com/dotnet/maui)<br>
+1. Starred [FrancescoSaverioZuppichini/linkedin_python](https://github.com/FrancescoSaverioZuppichini/linkedin_python)<br>
+2. Starred [PtPrashantTripathi/linkpe](https://github.com/PtPrashantTripathi/linkpe)<br>
+3. Pushed 1 commit(s) to [Pavel401/DartGpt](https://github.com/Pavel401/DartGpt)<br>
+4. Starred [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)<br>
+5. Starred [weeeBox/awesome-psychology](https://github.com/weeeBox/awesome-psychology)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
