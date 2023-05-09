@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [foss42/api-dash](https://github.com/foss42/api-dash)<br>
-2. Starred [leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop)<br>
-3. Starred [cuynu/ytvanced](https://github.com/cuynu/ytvanced)<br>
-4. Starred [fluttertools/pub_api_client](https://github.com/fluttertools/pub_api_client)<br>
-5. Starred [FrancescoSaverioZuppichini/linkedin_python](https://github.com/FrancescoSaverioZuppichini/linkedin_python)<br>
+1. Starred [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)<br>
+2. Starred [foss42/api-dash](https://github.com/foss42/api-dash)<br>
+3. Starred [leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop)<br>
+4. Starred [cuynu/ytvanced](https://github.com/cuynu/ytvanced)<br>
+5. Starred [fluttertools/pub_api_client](https://github.com/fluttertools/pub_api_client)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
