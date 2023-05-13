@@ -19,8 +19,8 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [flutter/io_flip](https://github.com/flutter/io_flip)<br>
-2. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
+1. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
+2. Starred [flutter/io_flip](https://github.com/flutter/io_flip)<br>
 3. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
 4. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
 5. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
