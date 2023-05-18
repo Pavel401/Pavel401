@@ -19,10 +19,10 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#152](https://github.com/CCExtractor/taskwarrior-flutter/pull/152) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Forked [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter) from [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Opened issue [#151](https://github.com/CCExtractor/taskwarrior-flutter/issues/151) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
+1. Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)<br>
+2. Opened PR [#152](https://github.com/CCExtractor/taskwarrior-flutter/pull/152) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Forked [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter) from [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Opened issue [#151](https://github.com/CCExtractor/taskwarrior-flutter/issues/151) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 5. Pushed 1 commit(s) to [Pavel401/Overthink](https://github.com/Pavel401/Overthink)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
