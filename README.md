@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
-2. Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)<br>
-3. Opened PR [#152](https://github.com/CCExtractor/taskwarrior-flutter/pull/152) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Forked [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter) from [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Opened issue [#151](https://github.com/CCExtractor/taskwarrior-flutter/issues/151) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [immich-app/immich](https://github.com/immich-app/immich)<br>
+2. Starred [bytedance/monolith](https://github.com/bytedance/monolith)<br>
+3. Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)<br>
+4. Opened PR [#152](https://github.com/CCExtractor/taskwarrior-flutter/pull/152) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Forked [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter) from [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
