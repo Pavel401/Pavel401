@@ -32,10 +32,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take a Screenshot of any Widget programmatically in Flutter](https://medium.com/@mabud_alam/take-a-screenshot-of-any-widget-programmatically-in-flutter-4462ef2c4067?source=rss-b9589dece0d4------2)
 - [Top Famous Apps Built with Flutter Framework](https://medium.com/@mabud_alam/top-famous-apps-built-with-flutter-framework-63b54c559af1?source=rss-b9589dece0d4------2)
 - [Top 6 packages one should not miss — Flutter](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-part-3-2cada233faf?source=rss-b9589dece0d4------2)
 - [What Are the Top Flutter Packages for Speed, Stability, and Productivity? Part-2](https://medium.com/@mabud_alam/what-are-the-top-flutter-packages-for-speed-stability-and-productivity-part-2-66e2d90491be?source=rss-b9589dece0d4------2)
-- [Everything You Need to Know About GestureDetector in Flutter](https://medium.com/@mabud_alam/everything-you-need-to-know-about-gesturedetector-in-flutter-2bd13328f23a?source=rss-b9589dece0d4------2)
 <!-- BLOG-POST-LIST:END -->
 
 
