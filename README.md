@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
+1. Starred [hafriedlander/idea2art](https://github.com/hafriedlander/idea2art)<br>
 2. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
 3. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
-4. Created new repository [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
-5. Starred [Bahmni/connect2Bahmni](https://github.com/Bahmni/connect2Bahmni)<br>
+4. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
+5. Created new repository [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
