@@ -19,9 +19,9 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
-2. Starred [hafriedlander/idea2art](https://github.com/hafriedlander/idea2art)<br>
-3. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
+1. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
+2. Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+3. Starred [hafriedlander/idea2art](https://github.com/hafriedlander/idea2art)<br>
 4. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
 5. Pushed 1 commit(s) to [Pavel401/Medium-Tutorials](https://github.com/Pavel401/Medium-Tutorials)<br>
 <!--RECENT_ACTIVITY:end-->
