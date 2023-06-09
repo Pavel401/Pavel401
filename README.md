@@ -19,8 +19,8 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-2. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Opened PR [#157](https://github.com/CCExtractor/taskwarrior-flutter/pull/157) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Opened issue [#156](https://github.com/CCExtractor/taskwarrior-flutter/issues/156) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 3. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 4. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 5. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
