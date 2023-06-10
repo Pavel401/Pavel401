@@ -5,7 +5,7 @@
 
 # 💫About Me :
 
-🔭 I’m currently working on [Evently](https://github.com/Project-Evently)
+🔭 I’m currently working on [TaskWarrior](https://github.com/Pavel401/taskwarrior-flutter)
 
 🌱 I’m currently learning Flutter, Python,CP
 
