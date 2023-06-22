@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [gauravmehta13/Flutter_Music_Player](https://github.com/gauravmehta13/Flutter_Music_Player)<br>
-2. Starred [AospExtended-Devices/device_oneplus_sm8150-common](https://github.com/AospExtended-Devices/device_oneplus_sm8150-common)<br>
-3. Starred [Evolution-X-Devices/device_oneplus_sm8150-common](https://github.com/Evolution-X-Devices/device_oneplus_sm8150-common)<br>
-4. Starred [theapache64/klokk](https://github.com/theapache64/klokk)<br>
-5. Starred [IonicaBizau/node-gh-polyglot](https://github.com/IonicaBizau/node-gh-polyglot)<br>
+1. Starred [pomber/git-history](https://github.com/pomber/git-history)<br>
+2. Starred [gauravmehta13/Flutter_Music_Player](https://github.com/gauravmehta13/Flutter_Music_Player)<br>
+3. Starred [AospExtended-Devices/device_oneplus_sm8150-common](https://github.com/AospExtended-Devices/device_oneplus_sm8150-common)<br>
+4. Starred [Evolution-X-Devices/device_oneplus_sm8150-common](https://github.com/Evolution-X-Devices/device_oneplus_sm8150-common)<br>
+5. Starred [theapache64/klokk](https://github.com/theapache64/klokk)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
