@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-2. Opened PR [#160](https://github.com/CCExtractor/taskwarrior-flutter/pull/160) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Pushed 18 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-4. Pushed 18 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Starred [AnujK2901/yt-sum-flask](https://github.com/AnujK2901/yt-sum-flask)<br>
+1. Pushed 16 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Pushed 16 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+3. Closed PR [#161](https://github.com/CCExtractor/taskwarrior-flutter/pull/161) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Opened PR [#161](https://github.com/CCExtractor/taskwarrior-flutter/pull/161) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
