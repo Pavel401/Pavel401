@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
-2. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+1. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Starred [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
 3. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
-4. Starred [ahmadawais/Emoji-Log-VSCode](https://github.com/ahmadawais/Emoji-Log-VSCode)<br>
-5. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+4. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+5. Starred [ahmadawais/Emoji-Log-VSCode](https://github.com/ahmadawais/Emoji-Log-VSCode)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
