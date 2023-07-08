@@ -19,10 +19,10 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 3 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
-2. Merged PR [#1](https://github.com/Pavel401/SiteKeeper/pull/1) in [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
-3. Opened PR [#1](https://github.com/Pavel401/SiteKeeper/pull/1) in [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
-4. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+1. Starred [Clueless-Community/Spectrum-UI](https://github.com/Clueless-Community/Spectrum-UI)<br>
+2. Pushed 3 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+3. Merged PR [#1](https://github.com/Pavel401/SiteKeeper/pull/1) in [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+4. Opened PR [#1](https://github.com/Pavel401/SiteKeeper/pull/1) in [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
 5. Pushed 1 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
