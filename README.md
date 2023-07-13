@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [felladrin/linkedin-autoconnect-chrome-extension](https://github.com/felladrin/linkedin-autoconnect-chrome-extension)<br>
-2. Starred [MoustacheOff/AppleSilicon-Minecraft-Shaders](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders)<br>
-3. Starred [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)<br>
-4. Pushed 4 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
-5. Merged PR [#2](https://github.com/Pavel401/SiteKeeper/pull/2) in [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
+1. Starred [openwebf/webf](https://github.com/openwebf/webf)<br>
+2. Starred [felladrin/linkedin-autoconnect-chrome-extension](https://github.com/felladrin/linkedin-autoconnect-chrome-extension)<br>
+3. Starred [MoustacheOff/AppleSilicon-Minecraft-Shaders](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders)<br>
+4. Starred [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle)<br>
+5. Pushed 4 commit(s) to [Pavel401/SiteKeeper](https://github.com/Pavel401/SiteKeeper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
