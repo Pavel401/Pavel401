@@ -19,8 +19,8 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)<br>
-2. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
+1. Starred [sleeyax/aternos-api](https://github.com/sleeyax/aternos-api)<br>
+2. Starred [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)<br>
 3. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 4. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
 5. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
