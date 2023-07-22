@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#145](https://github.com/ABausG/home_widget/issues/145) in [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
-2. Starred [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)<br>
-3. Starred [sleeyax/aternos-api](https://github.com/sleeyax/aternos-api)<br>
-4. Starred [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)<br>
-5. Pushed 1 commit(s) to [Pavel401/LeetCode-submissions](https://github.com/Pavel401/LeetCode-submissions)<br>
+1. Opened PR [#167](https://github.com/CCExtractor/taskwarrior-flutter/pull/167) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+3. Opened issue [#145](https://github.com/ABausG/home_widget/issues/145) in [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
+4. Starred [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)<br>
+5. Starred [sleeyax/aternos-api](https://github.com/sleeyax/aternos-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
