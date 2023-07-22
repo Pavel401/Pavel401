@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#167](https://github.com/CCExtractor/taskwarrior-flutter/pull/167) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-3. Opened issue [#145](https://github.com/ABausG/home_widget/issues/145) in [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
-4. Starred [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes)<br>
-5. Starred [sleeyax/aternos-api](https://github.com/sleeyax/aternos-api)<br>
+1. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+3. Opened PR [#167](https://github.com/CCExtractor/taskwarrior-flutter/pull/167) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+5. Opened issue [#145](https://github.com/ABausG/home_widget/issues/145) in [ABausG/home_widget](https://github.com/ABausG/home_widget)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
