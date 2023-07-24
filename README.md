@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)<br>
-2. Opened PR [#168](https://github.com/CCExtractor/taskwarrior-flutter/pull/168) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Starred [felangel/bloc](https://github.com/felangel/bloc)<br>
+2. Starred [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)<br>
+3. Opened PR [#168](https://github.com/CCExtractor/taskwarrior-flutter/pull/168) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 4. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Opened PR [#167](https://github.com/CCExtractor/taskwarrior-flutter/pull/167) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
