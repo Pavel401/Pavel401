@@ -20,10 +20,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-2. Created new repository [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-3. Starred [felangel/bloc](https://github.com/felangel/bloc)<br>
-4. Starred [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)<br>
-5. Opened PR [#168](https://github.com/CCExtractor/taskwarrior-flutter/pull/168) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+3. Created new repository [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+4. Starred [felangel/bloc](https://github.com/felangel/bloc)<br>
+5. Starred [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
