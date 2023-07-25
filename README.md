@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Created new repository [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
-2. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+1. Became collaborator on [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
+2. Created new repository [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
 3. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-4. Created new repository [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-5. Starred [felangel/bloc](https://github.com/felangel/bloc)<br>
+4. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+5. Created new repository [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
