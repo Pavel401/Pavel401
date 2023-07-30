@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
-2. Starred [mobarski/st_repl_connection](https://github.com/mobarski/st_repl_connection)<br>
-3. Pushed 4 commit(s) to [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
-4. Pushed 1 commit(s) to [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
-5. Became collaborator on [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
+1. Starred [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
+2. Pushed 1 commit(s) to [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
+3. Starred [mobarski/st_repl_connection](https://github.com/mobarski/st_repl_connection)<br>
+4. Pushed 4 commit(s) to [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
+5. Pushed 1 commit(s) to [Pavel401/react-readme](https://github.com/Pavel401/react-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
