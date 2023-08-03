@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
-2. Starred [Go-phie/gophie](https://github.com/Go-phie/gophie)<br>
-3. Starred [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
-4. Pushed 1 commit(s) to [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
-5. Starred [mobarski/st_repl_connection](https://github.com/mobarski/st_repl_connection)<br>
+1. Starred [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)<br>
+2. Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
+3. Starred [Go-phie/gophie](https://github.com/Go-phie/gophie)<br>
+4. Starred [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
+5. Pushed 1 commit(s) to [Pavel401/Recipedia](https://github.com/Pavel401/Recipedia)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
