@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Bip-Rep/sherpa](https://github.com/Bip-Rep/sherpa)<br>
-2. Starred [tensorflow/examples](https://github.com/tensorflow/examples)<br>
-3. Starred [HeliosX7/Walmart-Smart-Shopping-Cart](https://github.com/HeliosX7/Walmart-Smart-Shopping-Cart)<br>
-4. Starred [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)<br>
-5. Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)<br>
+1. Starred [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app)<br>
+2. Starred [Bip-Rep/sherpa](https://github.com/Bip-Rep/sherpa)<br>
+3. Starred [tensorflow/examples](https://github.com/tensorflow/examples)<br>
+4. Starred [HeliosX7/Walmart-Smart-Shopping-Cart](https://github.com/HeliosX7/Walmart-Smart-Shopping-Cart)<br>
+5. Starred [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
