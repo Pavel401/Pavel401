@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Portfolio](https://github.com/Pavel401/Portfolio)<br>
-2. Starred [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-3. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
-4. Starred [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app)<br>
-5. Starred [Bip-Rep/sherpa](https://github.com/Bip-Rep/sherpa)<br>
+1. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Pushed 1 commit(s) to [Pavel401/Portfolio](https://github.com/Pavel401/Portfolio)<br>
+3. Starred [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+4. Pushed 1 commit(s) to [Pavel401/codepush-demo-flutter](https://github.com/Pavel401/codepush-demo-flutter)<br>
+5. Starred [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
