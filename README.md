@@ -19,10 +19,10 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [ClarityCoders/RedditBot-FastAI](https://github.com/ClarityCoders/RedditBot-FastAI)<br>
-2. Starred [aravind-tronix/Nudity-detection](https://github.com/aravind-tronix/Nudity-detection)<br>
-3. Starred [SashiDo/content-moderation-image-api](https://github.com/SashiDo/content-moderation-image-api)<br>
-4. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Pushed 14 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+2. Starred [ClarityCoders/RedditBot-FastAI](https://github.com/ClarityCoders/RedditBot-FastAI)<br>
+3. Starred [aravind-tronix/Nudity-detection](https://github.com/aravind-tronix/Nudity-detection)<br>
+4. Starred [SashiDo/content-moderation-image-api](https://github.com/SashiDo/content-moderation-image-api)<br>
 5. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
