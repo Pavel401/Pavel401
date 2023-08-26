@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#171](https://github.com/CCExtractor/taskwarrior-flutter/pull/171) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [lambda-client/lambda](https://github.com/lambda-client/lambda)<br>
-3. Pushed 14 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-4. Starred [ClarityCoders/RedditBot-FastAI](https://github.com/ClarityCoders/RedditBot-FastAI)<br>
-5. Starred [aravind-tronix/Nudity-detection](https://github.com/aravind-tronix/Nudity-detection)<br>
+1. Starred [Kaviarasan-R/GFG-DSA-SELF-PACED-COURSE](https://github.com/Kaviarasan-R/GFG-DSA-SELF-PACED-COURSE)<br>
+2. Opened PR [#171](https://github.com/CCExtractor/taskwarrior-flutter/pull/171) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Starred [lambda-client/lambda](https://github.com/lambda-client/lambda)<br>
+4. Pushed 14 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+5. Starred [ClarityCoders/RedditBot-FastAI](https://github.com/ClarityCoders/RedditBot-FastAI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
