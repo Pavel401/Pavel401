@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities](https://github.com/myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities)<br>
-2. Starred [Tazril/career-scrap](https://github.com/Tazril/career-scrap)<br>
-3. Opened PR [#174](https://github.com/CCExtractor/taskwarrior-flutter/pull/174) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Pushed 15 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Opened PR [#173](https://github.com/CCExtractor/taskwarrior-flutter/pull/173) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+2. Starred [myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities](https://github.com/myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities)<br>
+3. Starred [Tazril/career-scrap](https://github.com/Tazril/career-scrap)<br>
+4. Opened PR [#174](https://github.com/CCExtractor/taskwarrior-flutter/pull/174) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 15 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
