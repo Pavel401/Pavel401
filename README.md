@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Created new repository [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-5. Starred [myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities](https://github.com/myself-vishal/Open-Source-Internship-Programs-and-OFFCampus-opportunities)<br>
+1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Created new repository [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Starred [microsoft/vscode](https://github.com/microsoft/vscode)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
