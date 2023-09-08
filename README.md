@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [veler/DevToys](https://github.com/veler/DevToys)<br>
-2. Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)<br>
-3. Starred [Catrobat/PocketCode-IDE-Flutter](https://github.com/Catrobat/PocketCode-IDE-Flutter)<br>
-4. Starred [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
-5. Starred [amd64fox/SpotX](https://github.com/amd64fox/SpotX)<br>
+1. Starred [rscloura/Doldrums](https://github.com/rscloura/Doldrums)<br>
+2. Starred [mildsunrise/darter](https://github.com/mildsunrise/darter)<br>
+3. Starred [veler/DevToys](https://github.com/veler/DevToys)<br>
+4. Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)<br>
+5. Starred [Catrobat/PocketCode-IDE-Flutter](https://github.com/Catrobat/PocketCode-IDE-Flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
