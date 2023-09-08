@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Catrobat/PocketCode-IDE-Flutter](https://github.com/Catrobat/PocketCode-IDE-Flutter)<br>
-2. Starred [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
-3. Starred [amd64fox/SpotX](https://github.com/amd64fox/SpotX)<br>
-4. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [veler/DevToys](https://github.com/veler/DevToys)<br>
+2. Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)<br>
+3. Starred [Catrobat/PocketCode-IDE-Flutter](https://github.com/Catrobat/PocketCode-IDE-Flutter)<br>
+4. Starred [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
+5. Starred [amd64fox/SpotX](https://github.com/amd64fox/SpotX)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
