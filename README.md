@@ -20,10 +20,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 2 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-2. Closed issue [#135](https://github.com/CCExtractor/taskwarrior-flutter/issues/135) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed PR [#136](https://github.com/CCExtractor/taskwarrior-flutter/pull/136) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed PR [#175](https://github.com/CCExtractor/taskwarrior-flutter/pull/175) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Closed PR [#146](https://github.com/CCExtractor/taskwarrior-flutter/pull/146) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed PR [#122](https://github.com/CCExtractor/taskwarrior-flutter/pull/122) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Closed issue [#11](https://github.com/CCExtractor/taskwarrior-flutter/issues/11) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#94](https://github.com/CCExtractor/taskwarrior-flutter/issues/94) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#67](https://github.com/CCExtractor/taskwarrior-flutter/issues/67) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
