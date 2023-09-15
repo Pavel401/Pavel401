@@ -5,7 +5,7 @@
 
 # 💫About Me :
 
-🔭 I’m currently working on [TaskWarrior](https://github.com/Pavel401/taskwarrior-flutter)
+🔭 I’m currently working on [TaskWarrior](https://github.com/Pavel401/taskwarrior-flutter) & [Job Scraper using Go](https://github.com/Pavel401/Jobs-Scraper)
 
 🌱 I’m currently learning Flutter, Python,CP
 
