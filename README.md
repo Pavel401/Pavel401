@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [actuallymentor/battery](https://github.com/actuallymentor/battery)<br>
-2. Starred [umr-ds/bluera](https://github.com/umr-ds/bluera)<br>
-3. Starred [woodemi/quick_blue](https://github.com/woodemi/quick_blue)<br>
+1. Pushed 10 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Merged PR [#2](https://github.com/Pavel401/Jobs-Scraper/pull/2) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Opened PR [#2](https://github.com/Pavel401/Jobs-Scraper/pull/2) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Pushed 4 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Starred [actuallymentor/battery](https://github.com/actuallymentor/battery)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
