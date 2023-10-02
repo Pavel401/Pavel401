@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-2. Starred [letsar/visual_effect](https://github.com/letsar/visual_effect)<br>
-3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Pushed 10 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Merged PR [#2](https://github.com/Pavel401/Jobs-Scraper/pull/2) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [cncf/zero-to-merge](https://github.com/cncf/zero-to-merge)<br>
+2. Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+3. Starred [letsar/visual_effect](https://github.com/letsar/visual_effect)<br>
+4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Pushed 10 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
