@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl)<br>
-2. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Starred [cncf/zero-to-merge](https://github.com/cncf/zero-to-merge)<br>
-5. Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Starred [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl)<br>
+3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Starred [cncf/zero-to-merge](https://github.com/cncf/zero-to-merge)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
