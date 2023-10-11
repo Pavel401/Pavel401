@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [blelora/blelora-app](https://github.com/blelora/blelora-app)<br>
-2. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [morph-labs/rift](https://github.com/morph-labs/rift)<br>
+2. Starred [blelora/blelora-app](https://github.com/blelora/blelora-app)<br>
 3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Forked [Pavel401/inview_notifier_list](https://github.com/Pavel401/inview_notifier_list) from [rvamsikrishna/inview_notifier_list](https://github.com/rvamsikrishna/inview_notifier_list)<br>
+5. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
