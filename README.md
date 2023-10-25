@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)<br>
-2. Starred [hooram/ownphotos](https://github.com/hooram/ownphotos)<br>
-3. Starred [HackerNews/API](https://github.com/HackerNews/API)<br>
-4. Pushed 4 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#201](https://github.com/CCExtractor/taskwarrior-flutter/pull/201) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)<br>
+2. Starred [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)<br>
+3. Starred [hooram/ownphotos](https://github.com/hooram/ownphotos)<br>
+4. Starred [HackerNews/API](https://github.com/HackerNews/API)<br>
+5. Pushed 4 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
