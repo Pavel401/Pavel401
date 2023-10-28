@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [renancaraujo/turi](https://github.com/renancaraujo/turi)<br>
-2. Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)<br>
-3. Starred [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)<br>
-4. Starred [hooram/ownphotos](https://github.com/hooram/ownphotos)<br>
-5. Starred [HackerNews/API](https://github.com/HackerNews/API)<br>
+1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Starred [renancaraujo/turi](https://github.com/renancaraujo/turi)<br>
+3. Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)<br>
+4. Starred [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)<br>
+5. Starred [hooram/ownphotos](https://github.com/hooram/ownphotos)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
