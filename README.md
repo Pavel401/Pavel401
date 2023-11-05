@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)<br>
-2. Starred [jspw/Ubuntu-Launcher](https://github.com/jspw/Ubuntu-Launcher)<br>
-3. Starred [HiveMinds/tw-install](https://github.com/HiveMinds/tw-install)<br>
-4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Pushed 4 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Starred [championswimmer/onepixel_backend](https://github.com/championswimmer/onepixel_backend)<br>
+2. Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)<br>
+3. Starred [jspw/Ubuntu-Launcher](https://github.com/jspw/Ubuntu-Launcher)<br>
+4. Starred [HiveMinds/tw-install](https://github.com/HiveMinds/tw-install)<br>
+5. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
