@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)<br>
-2. Starred [championswimmer/onepixel_backend](https://github.com/championswimmer/onepixel_backend)<br>
-3. Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)<br>
-4. Starred [jspw/Ubuntu-Launcher](https://github.com/jspw/Ubuntu-Launcher)<br>
-5. Starred [HiveMinds/tw-install](https://github.com/HiveMinds/tw-install)<br>
+1. Opened issue [#179](https://github.com/appinioGmbH/flutter_packages/issues/179) in [appinioGmbH/flutter_packages](https://github.com/appinioGmbH/flutter_packages)<br>
+2. Starred [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)<br>
+3. Starred [championswimmer/onepixel_backend](https://github.com/championswimmer/onepixel_backend)<br>
+4. Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)<br>
+5. Starred [jspw/Ubuntu-Launcher](https://github.com/jspw/Ubuntu-Launcher)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
