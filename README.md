@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Closed issue [#179](https://github.com/appinioGmbH/flutter_packages/issues/179) in [appinioGmbH/flutter_packages](https://github.com/appinioGmbH/flutter_packages)<br>
-3. Opened issue [#179](https://github.com/appinioGmbH/flutter_packages/issues/179) in [appinioGmbH/flutter_packages](https://github.com/appinioGmbH/flutter_packages)<br>
-4. Starred [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)<br>
-5. Starred [championswimmer/onepixel_backend](https://github.com/championswimmer/onepixel_backend)<br>
+1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Closed issue [#179](https://github.com/appinioGmbH/flutter_packages/issues/179) in [appinioGmbH/flutter_packages](https://github.com/appinioGmbH/flutter_packages)<br>
+4. Opened issue [#179](https://github.com/appinioGmbH/flutter_packages/issues/179) in [appinioGmbH/flutter_packages](https://github.com/appinioGmbH/flutter_packages)<br>
+5. Starred [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
