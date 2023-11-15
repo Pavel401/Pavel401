@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate)<br>
-2. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Closed issue [#203](https://github.com/CCExtractor/taskwarrior-flutter/issues/203) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#205](https://github.com/CCExtractor/taskwarrior-flutter/pull/205) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Starred [AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate)<br>
+3. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Closed issue [#203](https://github.com/CCExtractor/taskwarrior-flutter/issues/203) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
