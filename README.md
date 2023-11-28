@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [vikram25897/flutter_cached_video_player](https://github.com/vikram25897/flutter_cached_video_player)<br>
-2. Starred [MurilonND/LiquidArt_AI](https://github.com/MurilonND/LiquidArt_AI)<br>
-3. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#211](https://github.com/CCExtractor/taskwarrior-flutter/issues/211) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#212](https://github.com/CCExtractor/taskwarrior-flutter/pull/212) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Opened issue [#5](https://github.com/Pavel401/Jobs-Scraper/issues/5) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Opened issue [#4](https://github.com/Pavel401/Jobs-Scraper/issues/4) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Opened issue [#3](https://github.com/Pavel401/Jobs-Scraper/issues/3) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Starred [vikram25897/flutter_cached_video_player](https://github.com/vikram25897/flutter_cached_video_player)<br>
+5. Starred [MurilonND/LiquidArt_AI](https://github.com/MurilonND/LiquidArt_AI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
