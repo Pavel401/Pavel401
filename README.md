@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [MurilonND/LiquidArt_AI](https://github.com/MurilonND/LiquidArt_AI)<br>
-2. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#211](https://github.com/CCExtractor/taskwarrior-flutter/issues/211) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#212](https://github.com/CCExtractor/taskwarrior-flutter/pull/212) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Approved [#212](https://github.com/CCExtractor/taskwarrior-flutter/pull/212#pullrequestreview-1746897291) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [vikram25897/flutter_cached_video_player](https://github.com/vikram25897/flutter_cached_video_player)<br>
+2. Starred [MurilonND/LiquidArt_AI](https://github.com/MurilonND/LiquidArt_AI)<br>
+3. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#211](https://github.com/CCExtractor/taskwarrior-flutter/issues/211) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Merged PR [#212](https://github.com/CCExtractor/taskwarrior-flutter/pull/212) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
