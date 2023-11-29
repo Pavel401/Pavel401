@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#5](https://github.com/Pavel401/Jobs-Scraper/issues/5) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Opened issue [#4](https://github.com/Pavel401/Jobs-Scraper/issues/4) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Opened issue [#3](https://github.com/Pavel401/Jobs-Scraper/issues/3) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Starred [vikram25897/flutter_cached_video_player](https://github.com/vikram25897/flutter_cached_video_player)<br>
-5. Starred [MurilonND/LiquidArt_AI](https://github.com/MurilonND/LiquidArt_AI)<br>
+1. Starred [abhisheks008/ML-Crate](https://github.com/abhisheks008/ML-Crate)<br>
+2. Opened issue [#5](https://github.com/Pavel401/Jobs-Scraper/issues/5) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Opened issue [#4](https://github.com/Pavel401/Jobs-Scraper/issues/4) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Opened issue [#3](https://github.com/Pavel401/Jobs-Scraper/issues/3) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Starred [vikram25897/flutter_cached_video_player](https://github.com/vikram25897/flutter_cached_video_player)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
