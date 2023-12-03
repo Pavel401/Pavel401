@@ -21,9 +21,9 @@ Recent activity ~~so people can stop saying I do nothing~~:
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
 2. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Created new repository [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Starred [abhisheks008/ML-Crate](https://github.com/abhisheks008/ML-Crate)<br>
-5. Opened issue [#5](https://github.com/Pavel401/Jobs-Scraper/issues/5) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Created new repository [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+5. Starred [abhisheks008/ML-Crate](https://github.com/abhisheks008/ML-Crate)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
