@@ -19,10 +19,10 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-3. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+1. Starred [VeryGoodOpenSource/very_good_infinite_list](https://github.com/VeryGoodOpenSource/very_good_infinite_list)<br>
+2. Starred [101Loop/Skeleton-Text](https://github.com/101Loop/Skeleton-Text)<br>
+3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
 5. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
