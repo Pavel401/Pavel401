@@ -20,10 +20,10 @@ Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-2. Starred [4Q-s-r-o/ota_update](https://github.com/4Q-s-r-o/ota_update)<br>
-3. Starred [VeryGoodOpenSource/very_good_infinite_list](https://github.com/VeryGoodOpenSource/very_good_infinite_list)<br>
-4. Starred [101Loop/Skeleton-Text](https://github.com/101Loop/Skeleton-Text)<br>
-5. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Starred [4Q-s-r-o/ota_update](https://github.com/4Q-s-r-o/ota_update)<br>
+4. Starred [VeryGoodOpenSource/very_good_infinite_list](https://github.com/VeryGoodOpenSource/very_good_infinite_list)<br>
+5. Starred [101Loop/Skeleton-Text](https://github.com/101Loop/Skeleton-Text)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
