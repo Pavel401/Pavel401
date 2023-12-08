@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Forked [Pavel401/document_scanner_flutter](https://github.com/Pavel401/document_scanner_flutter) from [ishaquehassan/document_scanner_flutter](https://github.com/ishaquehassan/document_scanner_flutter)<br>
-2. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Starred [4Q-s-r-o/ota_update](https://github.com/4Q-s-r-o/ota_update)<br>
-5. Starred [VeryGoodOpenSource/very_good_infinite_list](https://github.com/VeryGoodOpenSource/very_good_infinite_list)<br>
+1. Closed issue [#219](https://github.com/CCExtractor/taskwarrior-flutter/issues/219) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#215](https://github.com/CCExtractor/taskwarrior-flutter/issues/215) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Merged PR [#217](https://github.com/CCExtractor/taskwarrior-flutter/pull/217) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Approved [#217](https://github.com/CCExtractor/taskwarrior-flutter/pull/217#pullrequestreview-1772812184) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
