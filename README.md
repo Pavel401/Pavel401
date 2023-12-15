@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#1](https://github.com/dungngminh/adjusted_video_player/issues/1) in [dungngminh/adjusted_video_player](https://github.com/dungngminh/adjusted_video_player)<br>
-2. Starred [dungngminh/app_creaty](https://github.com/dungngminh/app_creaty)<br>
-3. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Closed issue [#1](https://github.com/dungngminh/adjusted_video_player/issues/1) in [dungngminh/adjusted_video_player](https://github.com/dungngminh/adjusted_video_player)<br>
+2. Opened issue [#1](https://github.com/dungngminh/adjusted_video_player/issues/1) in [dungngminh/adjusted_video_player](https://github.com/dungngminh/adjusted_video_player)<br>
+3. Starred [dungngminh/app_creaty](https://github.com/dungngminh/app_creaty)<br>
 4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Pushed 1 commit(s) to [Pavel401/Custom-NER-Using-Spacy](https://github.com/Pavel401/Custom-NER-Using-Spacy)<br>
+5. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
