@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Pushed 1 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Closed issue [#1](https://github.com/dungngminh/adjusted_video_player/issues/1) in [dungngminh/adjusted_video_player](https://github.com/dungngminh/adjusted_video_player)<br>
-4. Opened issue [#1](https://github.com/dungngminh/adjusted_video_player/issues/1) in [dungngminh/adjusted_video_player](https://github.com/dungngminh/adjusted_video_player)<br>
-5. Starred [dungngminh/app_creaty](https://github.com/dungngminh/app_creaty)<br>
+1. Pushed 13 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#221](https://github.com/CCExtractor/taskwarrior-flutter/issues/221) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#222](https://github.com/CCExtractor/taskwarrior-flutter/pull/222) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#222](https://github.com/CCExtractor/taskwarrior-flutter/pull/222#pullrequestreview-1785238252) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
