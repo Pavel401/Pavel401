@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
-2. Pushed 1 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
-3. Created new repository [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
-4. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Merged PR [#9](https://github.com/Pavel401/Jobs-Scraper/pull/9) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet)<br>
+2. Pushed 2 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
+3. Pushed 1 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
+4. Created new repository [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
+5. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
