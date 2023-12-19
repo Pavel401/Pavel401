@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed PR [#220](https://github.com/CCExtractor/taskwarrior-flutter/pull/220) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Closed issue [#202](https://github.com/CCExtractor/taskwarrior-flutter/issues/202) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Starred [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet)<br>
-4. Pushed 2 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
-5. Pushed 1 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
+1. Starred [babakcode/flutter_gemini](https://github.com/babakcode/flutter_gemini)<br>
+2. Closed PR [#220](https://github.com/CCExtractor/taskwarrior-flutter/pull/220) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Closed issue [#202](https://github.com/CCExtractor/taskwarrior-flutter/issues/202) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Starred [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet)<br>
+5. Pushed 2 commit(s) to [Pavel401/JobHub](https://github.com/Pavel401/JobHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
