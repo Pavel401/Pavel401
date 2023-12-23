@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Merged PR [#10](https://github.com/Pavel401/Jobs-Scraper/pull/10) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Starred [milvus-io/milvus-sdk-go](https://github.com/milvus-io/milvus-sdk-go)<br>
-4. Starred [babakcode/flutter_gemini](https://github.com/babakcode/flutter_gemini)<br>
-5. Closed PR [#220](https://github.com/CCExtractor/taskwarrior-flutter/pull/220) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Closed issue [#218](https://github.com/CCExtractor/taskwarrior-flutter/issues/218) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#227](https://github.com/CCExtractor/taskwarrior-flutter/pull/227) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#227](https://github.com/CCExtractor/taskwarrior-flutter/pull/227#pullrequestreview-1795427823) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
