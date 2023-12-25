@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)<br>
-2. Starred [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)<br>
-3. Pushed 5 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#224](https://github.com/CCExtractor/taskwarrior-flutter/issues/224) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#225](https://github.com/CCExtractor/taskwarrior-flutter/pull/225) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Closed issue [#228](https://github.com/CCExtractor/taskwarrior-flutter/issues/228) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)<br>
+3. Starred [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)<br>
+4. Pushed 5 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#224](https://github.com/CCExtractor/taskwarrior-flutter/issues/224) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
