@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)<br>
-2. Pushed 4 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#226](https://github.com/CCExtractor/taskwarrior-flutter/issues/226) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#229](https://github.com/CCExtractor/taskwarrior-flutter/pull/229) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Approved [#229](https://github.com/CCExtractor/taskwarrior-flutter/pull/229#pullrequestreview-1796455660) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+2. Merged PR [#1](https://github.com/Pavel401/JobScraper-Mobile/pull/1) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Opened PR [#1](https://github.com/Pavel401/JobScraper-Mobile/pull/1) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Starred [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)<br>
+5. Pushed 4 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
