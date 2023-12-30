@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
-2. Starred [httpie/cli](https://github.com/httpie/cli)<br>
-3. Starred [nikoksr/notify](https://github.com/nikoksr/notify)<br>
-4. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+1. Starred [farizrifqi/Threads-Media-Downloader](https://github.com/farizrifqi/Threads-Media-Downloader)<br>
+2. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
+3. Starred [httpie/cli](https://github.com/httpie/cli)<br>
+4. Starred [nikoksr/notify](https://github.com/nikoksr/notify)<br>
+5. Pushed 1 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
