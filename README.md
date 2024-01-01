@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [FareedKhan-dev/Most-powerful-NLP-library](https://github.com/FareedKhan-dev/Most-powerful-NLP-library)<br>
-2. Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
-3. Starred [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch)<br>
-4. Starred [farizrifqi/Threads-Media-Downloader](https://github.com/farizrifqi/Threads-Media-Downloader)<br>
-5. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
+1. Starred [m0hit-kumar/Bring-The-Menu](https://github.com/m0hit-kumar/Bring-The-Menu)<br>
+2. Starred [Clueless-Community/collegeAPI](https://github.com/Clueless-Community/collegeAPI)<br>
+3. Starred [FareedKhan-dev/Most-powerful-NLP-library](https://github.com/FareedKhan-dev/Most-powerful-NLP-library)<br>
+4. Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
+5. Starred [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
