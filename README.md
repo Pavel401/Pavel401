@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#233](https://github.com/CCExtractor/taskwarrior-flutter/issues/233) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Merged PR [#234](https://github.com/CCExtractor/taskwarrior-flutter/pull/234) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Starred [Navigine/Indoor-Navigation-Flutter-SDK](https://github.com/Navigine/Indoor-Navigation-Flutter-SDK)<br>
-5. Starred [m0hit-kumar/Bring-The-Menu](https://github.com/m0hit-kumar/Bring-The-Menu)<br>
+1. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Closed issue [#233](https://github.com/CCExtractor/taskwarrior-flutter/issues/233) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Merged PR [#234](https://github.com/CCExtractor/taskwarrior-flutter/pull/234) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Starred [Navigine/Indoor-Navigation-Flutter-SDK](https://github.com/Navigine/Indoor-Navigation-Flutter-SDK)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
