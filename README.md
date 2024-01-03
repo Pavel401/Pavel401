@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Navigine/Indoor-Navigation-Flutter-SDK](https://github.com/Navigine/Indoor-Navigation-Flutter-SDK)<br>
-2. Starred [m0hit-kumar/Bring-The-Menu](https://github.com/m0hit-kumar/Bring-The-Menu)<br>
-3. Starred [Clueless-Community/collegeAPI](https://github.com/Clueless-Community/collegeAPI)<br>
-4. Starred [FareedKhan-dev/Most-powerful-NLP-library](https://github.com/FareedKhan-dev/Most-powerful-NLP-library)<br>
-5. Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
+1. Closed issue [#233](https://github.com/CCExtractor/taskwarrior-flutter/issues/233) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#234](https://github.com/CCExtractor/taskwarrior-flutter/pull/234) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Starred [Navigine/Indoor-Navigation-Flutter-SDK](https://github.com/Navigine/Indoor-Navigation-Flutter-SDK)<br>
+5. Starred [m0hit-kumar/Bring-The-Menu](https://github.com/m0hit-kumar/Bring-The-Menu)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
