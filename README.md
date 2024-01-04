@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)<br>
-2. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Closed issue [#233](https://github.com/CCExtractor/taskwarrior-flutter/issues/233) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#234](https://github.com/CCExtractor/taskwarrior-flutter/pull/234) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Merged PR [#235](https://github.com/CCExtractor/taskwarrior-flutter/pull/235) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Closed issue [#236](https://github.com/CCExtractor/taskwarrior-flutter/issues/236) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Starred [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)<br>
+5. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
