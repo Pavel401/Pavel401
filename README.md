@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)<br>
-2. Starred [cockroachdb/pebble](https://github.com/cockroachdb/pebble)<br>
-3. Starred [sourcegraph/conc](https://github.com/sourcegraph/conc)<br>
-4. Pushed 2 commit(s) to [Pavel401/College-feedback-form-script](https://github.com/Pavel401/College-feedback-form-script)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)<br>
+2. Starred [CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)<br>
+3. Starred [cockroachdb/pebble](https://github.com/cockroachdb/pebble)<br>
+4. Starred [sourcegraph/conc](https://github.com/sourcegraph/conc)<br>
+5. Pushed 2 commit(s) to [Pavel401/College-feedback-form-script](https://github.com/Pavel401/College-feedback-form-script)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
