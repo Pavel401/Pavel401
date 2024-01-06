@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#14](https://github.com/Pavel401/Jobs-Scraper/issues/14) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)<br>
-3. Starred [CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)<br>
-4. Starred [cockroachdb/pebble](https://github.com/cockroachdb/pebble)<br>
-5. Starred [sourcegraph/conc](https://github.com/sourcegraph/conc)<br>
+1. Starred [Anthrapper/On-Device-Stable-Diffusion](https://github.com/Anthrapper/On-Device-Stable-Diffusion)<br>
+2. Starred [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)<br>
+3. Closed issue [#14](https://github.com/Pavel401/Jobs-Scraper/issues/14) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)<br>
+5. Starred [CCExtractor/ultimate_alarm_clock](https://github.com/CCExtractor/ultimate_alarm_clock)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
