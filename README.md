@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
-2. Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
-3. Starred [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)<br>
-4. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#239](https://github.com/CCExtractor/taskwarrior-flutter/pull/239) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
+2. Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
+3. Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
+4. Starred [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)<br>
+5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
