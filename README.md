@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)<br>
-2. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
-3. Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
-4. Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
-5. Starred [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)<br>
+1. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
+2. Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)<br>
+3. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
+4. Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
+5. Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
