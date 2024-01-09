@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
-2. Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)<br>
-3. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
-4. Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)<br>
-5. Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
+1. Closed issue [#237](https://github.com/CCExtractor/taskwarrior-flutter/issues/237) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+3. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
+4. Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)<br>
+5. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
