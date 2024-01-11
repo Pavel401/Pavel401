@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#237](https://github.com/CCExtractor/taskwarrior-flutter/issues/237) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-3. Starred [meshery/meshery](https://github.com/meshery/meshery)<br>
-4. Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)<br>
-5. Starred [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)<br>
+1. Opened issue [#18](https://github.com/Pavel401/Jobs-Scraper/issues/18) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Opened issue [#17](https://github.com/Pavel401/Jobs-Scraper/issues/17) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Opened issue [#16](https://github.com/Pavel401/Jobs-Scraper/issues/16) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Opened issue [#15](https://github.com/Pavel401/Jobs-Scraper/issues/15) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Closed issue [#237](https://github.com/CCExtractor/taskwarrior-flutter/issues/237) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
