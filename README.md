@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#6](https://github.com/Pavel401/JobScraper-Mobile/issues/6) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-2. Opened issue [#5](https://github.com/Pavel401/JobScraper-Mobile/issues/5) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Opened issue [#4](https://github.com/Pavel401/JobScraper-Mobile/issues/4) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Opened issue [#3](https://github.com/Pavel401/JobScraper-Mobile/issues/3) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-5. Opened issue [#2](https://github.com/Pavel401/JobScraper-Mobile/issues/2) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+1. Closed issue [#231](https://github.com/CCExtractor/taskwarrior-flutter/issues/231) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Merged PR [#241](https://github.com/CCExtractor/taskwarrior-flutter/pull/241) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#241](https://github.com/CCExtractor/taskwarrior-flutter/pull/241#pullrequestreview-1815090311) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Opened issue [#6](https://github.com/Pavel401/JobScraper-Mobile/issues/6) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
