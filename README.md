@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-2. Closed issue [#2](https://github.com/Pavel401/JobScraper-Mobile/issues/2) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Merged PR [#12](https://github.com/Pavel401/JobScraper-Mobile/pull/12) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Approved [#12](https://github.com/Pavel401/JobScraper-Mobile/pull/12#pullrequestreview-1820067516) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-5. Opened issue [#11](https://github.com/Pavel401/JobScraper-Mobile/issues/11) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+1. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+2. Merged PR [#29](https://github.com/Pavel401/Jobs-Scraper/pull/29) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Closed issue [#27](https://github.com/Pavel401/Jobs-Scraper/issues/27) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Merged PR [#28](https://github.com/Pavel401/Jobs-Scraper/pull/28) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
