@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Sinha-Ujjawal/gosen](https://github.com/Sinha-Ujjawal/gosen)<br>
-2. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Merged PR [#42](https://github.com/Pavel401/Jobs-Scraper/pull/42) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Closed issue [#38](https://github.com/Pavel401/Jobs-Scraper/issues/38) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
+2. Starred [Sinha-Ujjawal/gosen](https://github.com/Sinha-Ujjawal/gosen)<br>
+3. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Merged PR [#42](https://github.com/Pavel401/Jobs-Scraper/pull/42) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Pushed 2 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
