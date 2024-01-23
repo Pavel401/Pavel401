@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)<br>
-2. Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
-3. Starred [Sinha-Ujjawal/gosen](https://github.com/Sinha-Ujjawal/gosen)<br>
-4. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Merged PR [#42](https://github.com/Pavel401/Jobs-Scraper/pull/42) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [video-db/StreamRAG](https://github.com/video-db/StreamRAG)<br>
+2. Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)<br>
+3. Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
+4. Starred [Sinha-Ujjawal/gosen](https://github.com/Sinha-Ujjawal/gosen)<br>
+5. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
