@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [video-db/StreamRAG](https://github.com/video-db/StreamRAG)<br>
-2. Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)<br>
-3. Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
-4. Starred [Sinha-Ujjawal/gosen](https://github.com/Sinha-Ujjawal/gosen)<br>
-5. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+2. Merged PR [#20](https://github.com/Pavel401/JobScraper-Mobile/pull/20) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Opened PR [#20](https://github.com/Pavel401/JobScraper-Mobile/pull/20) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Closed issue [#9](https://github.com/Pavel401/JobScraper-Mobile/issues/9) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+5. Merged PR [#17](https://github.com/Pavel401/JobScraper-Mobile/pull/17) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
