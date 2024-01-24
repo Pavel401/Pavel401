@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Merged PR [#47](https://github.com/Pavel401/Jobs-Scraper/pull/47) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Closed issue [#43](https://github.com/Pavel401/Jobs-Scraper/issues/43) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Pushed 4 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Merged PR [#46](https://github.com/Pavel401/Jobs-Scraper/pull/46) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+1. Starred [zathras/jovial_svg](https://github.com/zathras/jovial_svg)<br>
+2. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+3. Merged PR [#47](https://github.com/Pavel401/Jobs-Scraper/pull/47) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+4. Closed issue [#43](https://github.com/Pavel401/Jobs-Scraper/issues/43) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Pushed 4 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
