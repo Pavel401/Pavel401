@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Stevenic/vectra](https://github.com/Stevenic/vectra)<br>
-2. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#249](https://github.com/CCExtractor/taskwarrior-flutter/issues/249) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#250](https://github.com/CCExtractor/taskwarrior-flutter/pull/250) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Approved [#250](https://github.com/CCExtractor/taskwarrior-flutter/pull/250#pullrequestreview-1847010440) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 4 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+2. Closed issue [#23](https://github.com/Pavel401/JobScraper-Mobile/issues/23) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Closed issue [#23](https://github.com/Pavel401/JobScraper-Mobile/issues/23) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Merged PR [#24](https://github.com/Pavel401/JobScraper-Mobile/pull/24) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+5. Starred [Stevenic/vectra](https://github.com/Stevenic/vectra)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
