@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Approved [#262](https://github.com/CCExtractor/taskwarrior-flutter/pull/262#pullrequestreview-1847615278) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Pushed 4 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#251](https://github.com/CCExtractor/taskwarrior-flutter/issues/251) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#257](https://github.com/CCExtractor/taskwarrior-flutter/pull/257) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Approved [#257](https://github.com/CCExtractor/taskwarrior-flutter/pull/257#pullrequestreview-1847564242) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Closed issue [#265](https://github.com/CCExtractor/taskwarrior-flutter/issues/265) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#268](https://github.com/CCExtractor/taskwarrior-flutter/pull/268) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#268](https://github.com/CCExtractor/taskwarrior-flutter/pull/268#pullrequestreview-1848166784) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Approved [#262](https://github.com/CCExtractor/taskwarrior-flutter/pull/262#pullrequestreview-1847615278) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
