@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#57](https://github.com/Pavel401/Jobs-Scraper/issues/57) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-2. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-3. Closed issue [#59](https://github.com/Pavel401/Jobs-Scraper/issues/59) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-4. Merged PR [#60](https://github.com/Pavel401/Jobs-Scraper/pull/60) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
-5. Starred [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler)<br>
+1. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+2. Closed issue [#27](https://github.com/Pavel401/JobScraper-Mobile/issues/27) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Merged PR [#28](https://github.com/Pavel401/JobScraper-Mobile/pull/28) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Closed issue [#57](https://github.com/Pavel401/Jobs-Scraper/issues/57) in [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
+5. Pushed 3 commit(s) to [Pavel401/Jobs-Scraper](https://github.com/Pavel401/Jobs-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
