@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [sugarme/transformer](https://github.com/sugarme/transformer)<br>
-2. Merged PR [#276](https://github.com/CCExtractor/taskwarrior-flutter/pull/276) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Pushed 5 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#274](https://github.com/CCExtractor/taskwarrior-flutter/issues/274) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [PasteShare/paste_share_open_source](https://github.com/PasteShare/paste_share_open_source)<br>
+2. Starred [sugarme/transformer](https://github.com/sugarme/transformer)<br>
+3. Merged PR [#276](https://github.com/CCExtractor/taskwarrior-flutter/pull/276) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Pushed 5 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#274](https://github.com/CCExtractor/taskwarrior-flutter/issues/274) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
