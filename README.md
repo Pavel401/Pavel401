@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [bakwc/JamSpell](https://github.com/bakwc/JamSpell)<br>
-2. Starred [hyperledger/fabric](https://github.com/hyperledger/fabric)<br>
-3. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#293](https://github.com/CCExtractor/taskwarrior-flutter/pull/293) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Approved [#293](https://github.com/CCExtractor/taskwarrior-flutter/pull/293#pullrequestreview-1874398732) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Closed issue [#32](https://github.com/Pavel401/JobScraper-Mobile/issues/32) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+2. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+3. Merged PR [#33](https://github.com/Pavel401/JobScraper-Mobile/pull/33) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
+4. Starred [bakwc/JamSpell](https://github.com/bakwc/JamSpell)<br>
+5. Starred [hyperledger/fabric](https://github.com/hyperledger/fabric)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
