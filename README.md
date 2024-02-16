@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Securrency-OSS/mirai](https://github.com/Securrency-OSS/mirai)<br>
-2. Closed issue [#32](https://github.com/Pavel401/JobScraper-Mobile/issues/32) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-3. Pushed 2 commit(s) to [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-4. Merged PR [#33](https://github.com/Pavel401/JobScraper-Mobile/pull/33) in [Pavel401/JobScraper-Mobile](https://github.com/Pavel401/JobScraper-Mobile)<br>
-5. Starred [bakwc/JamSpell](https://github.com/bakwc/JamSpell)<br>
+1. Closed issue [#292](https://github.com/CCExtractor/taskwarrior-flutter/issues/292) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Closed issue [#296](https://github.com/CCExtractor/taskwarrior-flutter/issues/296) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Merged PR [#297](https://github.com/CCExtractor/taskwarrior-flutter/pull/297) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Approved [#297](https://github.com/CCExtractor/taskwarrior-flutter/pull/297#pullrequestreview-1885685447) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
