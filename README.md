@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [worawit/blutter](https://github.com/worawit/blutter)<br>
-2. Starred [ksugar/samapi](https://github.com/ksugar/samapi)<br>
-3. Closed issue [#240](https://github.com/CCExtractor/taskwarrior-flutter/issues/240) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#292](https://github.com/CCExtractor/taskwarrior-flutter/issues/292) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Opened issue [#44](https://github.com/worawit/blutter/issues/44) in [worawit/blutter](https://github.com/worawit/blutter)<br>
+2. Starred [worawit/blutter](https://github.com/worawit/blutter)<br>
+3. Starred [ksugar/samapi](https://github.com/ksugar/samapi)<br>
+4. Closed issue [#240](https://github.com/CCExtractor/taskwarrior-flutter/issues/240) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#292](https://github.com/CCExtractor/taskwarrior-flutter/issues/292) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
