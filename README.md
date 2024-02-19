@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#44](https://github.com/worawit/blutter/issues/44) in [worawit/blutter](https://github.com/worawit/blutter)<br>
-2. Starred [worawit/blutter](https://github.com/worawit/blutter)<br>
-3. Starred [ksugar/samapi](https://github.com/ksugar/samapi)<br>
-4. Closed issue [#240](https://github.com/CCExtractor/taskwarrior-flutter/issues/240) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Closed issue [#292](https://github.com/CCExtractor/taskwarrior-flutter/issues/292) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 3 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#214](https://github.com/CCExtractor/taskwarrior-flutter/issues/214) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#299](https://github.com/CCExtractor/taskwarrior-flutter/pull/299) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#299](https://github.com/CCExtractor/taskwarrior-flutter/pull/299#pullrequestreview-1887933341) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Opened issue [#44](https://github.com/worawit/blutter/issues/44) in [worawit/blutter](https://github.com/worawit/blutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
