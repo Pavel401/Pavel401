@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#305](https://github.com/CCExtractor/taskwarrior-flutter/issues/305) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Pushed 5 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#301](https://github.com/CCExtractor/taskwarrior-flutter/issues/301) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Merged PR [#303](https://github.com/CCExtractor/taskwarrior-flutter/pull/303) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Starred [bmeaut/VIAUAV45](https://github.com/bmeaut/VIAUAV45)<br>
+1. Opened issue [#308](https://github.com/CCExtractor/taskwarrior-flutter/issues/308) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Opened issue [#307](https://github.com/CCExtractor/taskwarrior-flutter/issues/307) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Opened issue [#306](https://github.com/CCExtractor/taskwarrior-flutter/issues/306) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#291](https://github.com/CCExtractor/taskwarrior-flutter/issues/291) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Opened issue [#305](https://github.com/CCExtractor/taskwarrior-flutter/issues/305) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
