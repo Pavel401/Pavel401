@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 113 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-2. Closed PR [#294](https://github.com/CCExtractor/taskwarrior-flutter/pull/294) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#286](https://github.com/CCExtractor/taskwarrior-flutter/issues/286) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#279](https://github.com/CCExtractor/taskwarrior-flutter/issues/279) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Closed issue [#304](https://github.com/CCExtractor/taskwarrior-flutter/issues/304) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [fluttercandies/flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer)<br>
+2. Pushed 113 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+3. Closed PR [#294](https://github.com/CCExtractor/taskwarrior-flutter/pull/294) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#286](https://github.com/CCExtractor/taskwarrior-flutter/issues/286) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#279](https://github.com/CCExtractor/taskwarrior-flutter/issues/279) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
