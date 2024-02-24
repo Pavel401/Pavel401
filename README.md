@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [MAGIC-AI4Med/MMedLM](https://github.com/MAGIC-AI4Med/MMedLM)<br>
-2. Starred [fluttercandies/flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer)<br>
-3. Pushed 113 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
-4. Closed PR [#294](https://github.com/CCExtractor/taskwarrior-flutter/pull/294) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Closed issue [#286](https://github.com/CCExtractor/taskwarrior-flutter/issues/286) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [tuhinpal/amazon-scraper](https://github.com/tuhinpal/amazon-scraper)<br>
+2. Starred [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api)<br>
+3. Starred [MAGIC-AI4Med/MMedLM](https://github.com/MAGIC-AI4Med/MMedLM)<br>
+4. Starred [fluttercandies/flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer)<br>
+5. Pushed 113 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
