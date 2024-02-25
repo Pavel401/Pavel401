@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [tuhinpal/amazon-scraper](https://github.com/tuhinpal/amazon-scraper)<br>
-2. Starred [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api)<br>
-3. Starred [MAGIC-AI4Med/MMedLM](https://github.com/MAGIC-AI4Med/MMedLM)<br>
-4. Starred [fluttercandies/flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer)<br>
-5. Pushed 113 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+1. Closed issue [#308](https://github.com/CCExtractor/taskwarrior-flutter/issues/308) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#312](https://github.com/CCExtractor/taskwarrior-flutter/issues/312) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Closed issue [#316](https://github.com/CCExtractor/taskwarrior-flutter/issues/316) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Pushed 7 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Merged PR [#315](https://github.com/CCExtractor/taskwarrior-flutter/pull/315) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
