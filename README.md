@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)<br>
-2. Closed issue [#308](https://github.com/CCExtractor/taskwarrior-flutter/issues/308) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#312](https://github.com/CCExtractor/taskwarrior-flutter/issues/312) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#316](https://github.com/CCExtractor/taskwarrior-flutter/issues/316) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 7 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Forked [Pavel401/website](https://github.com/Pavel401/website) from [CCExtractor/website](https://github.com/CCExtractor/website)<br>
+2. Starred [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)<br>
+3. Closed issue [#308](https://github.com/CCExtractor/taskwarrior-flutter/issues/308) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#312](https://github.com/CCExtractor/taskwarrior-flutter/issues/312) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#316](https://github.com/CCExtractor/taskwarrior-flutter/issues/316) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
