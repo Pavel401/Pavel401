@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#52](https://github.com/CCExtractor/website/pull/52) in [CCExtractor/website](https://github.com/CCExtractor/website)<br>
-2. Pushed 3 commit(s) to [Pavel401/website](https://github.com/Pavel401/website)<br>
-3. Forked [Pavel401/website](https://github.com/Pavel401/website) from [CCExtractor/website](https://github.com/CCExtractor/website)<br>
-4. Starred [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)<br>
-5. Closed issue [#308](https://github.com/CCExtractor/taskwarrior-flutter/issues/308) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)<br>
+2. Opened PR [#52](https://github.com/CCExtractor/website/pull/52) in [CCExtractor/website](https://github.com/CCExtractor/website)<br>
+3. Pushed 3 commit(s) to [Pavel401/website](https://github.com/Pavel401/website)<br>
+4. Forked [Pavel401/website](https://github.com/Pavel401/website) from [CCExtractor/website](https://github.com/CCExtractor/website)<br>
+5. Starred [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
