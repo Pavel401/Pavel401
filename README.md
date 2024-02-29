@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)<br>
-2. Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)<br>
-3. Opened PR [#52](https://github.com/CCExtractor/website/pull/52) in [CCExtractor/website](https://github.com/CCExtractor/website)<br>
-4. Pushed 3 commit(s) to [Pavel401/website](https://github.com/Pavel401/website)<br>
-5. Forked [Pavel401/website](https://github.com/Pavel401/website) from [CCExtractor/website](https://github.com/CCExtractor/website)<br>
+1. Closed issue [#318](https://github.com/CCExtractor/taskwarrior-flutter/issues/318) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#319](https://github.com/CCExtractor/taskwarrior-flutter/issues/319) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)<br>
+4. Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)<br>
+5. Opened PR [#52](https://github.com/CCExtractor/website/pull/52) in [CCExtractor/website](https://github.com/CCExtractor/website)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
