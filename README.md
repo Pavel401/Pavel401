@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#324](https://github.com/CCExtractor/taskwarrior-flutter/issues/324) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
-3. Starred [dart-lightning/lndart.clnapp](https://github.com/dart-lightning/lndart.clnapp)<br>
-4. Starred [shivamguys/irctc-cypress-automation](https://github.com/shivamguys/irctc-cypress-automation)<br>
-5. Closed PR [#332](https://github.com/CCExtractor/taskwarrior-flutter/pull/332) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [xai-org/grok-1](https://github.com/xai-org/grok-1)<br>
+2. Closed issue [#324](https://github.com/CCExtractor/taskwarrior-flutter/issues/324) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
+4. Starred [dart-lightning/lndart.clnapp](https://github.com/dart-lightning/lndart.clnapp)<br>
+5. Starred [shivamguys/irctc-cypress-automation](https://github.com/shivamguys/irctc-cypress-automation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
