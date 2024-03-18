@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [xai-org/grok-1](https://github.com/xai-org/grok-1)<br>
-2. Closed issue [#324](https://github.com/CCExtractor/taskwarrior-flutter/issues/324) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
-4. Starred [dart-lightning/lndart.clnapp](https://github.com/dart-lightning/lndart.clnapp)<br>
-5. Starred [shivamguys/irctc-cypress-automation](https://github.com/shivamguys/irctc-cypress-automation)<br>
+1. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Closed issue [#335](https://github.com/CCExtractor/taskwarrior-flutter/issues/335) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#336](https://github.com/CCExtractor/taskwarrior-flutter/pull/336) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#336](https://github.com/CCExtractor/taskwarrior-flutter/pull/336#pullrequestreview-1943699412) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Starred [xai-org/grok-1](https://github.com/xai-org/grok-1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
