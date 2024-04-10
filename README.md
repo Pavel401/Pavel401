@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [wandb/openui](https://github.com/wandb/openui)<br>
-2. Starred [krishnakumarcn/faded](https://github.com/krishnakumarcn/faded)<br>
-3. Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)<br>
-4. Starred [dart-lang/sdk](https://github.com/dart-lang/sdk)<br>
-5. Forked [Pavel401/LangChain-Examples](https://github.com/Pavel401/LangChain-Examples) from [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)<br>
+1. Starred [himanshugarg08/flutter_give_collect_money](https://github.com/himanshugarg08/flutter_give_collect_money)<br>
+2. Starred [wandb/openui](https://github.com/wandb/openui)<br>
+3. Starred [krishnakumarcn/faded](https://github.com/krishnakumarcn/faded)<br>
+4. Starred [kleampa/not-paid](https://github.com/kleampa/not-paid)<br>
+5. Starred [dart-lang/sdk](https://github.com/dart-lang/sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
