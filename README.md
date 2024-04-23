@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [meta-llama/llama3](https://github.com/meta-llama/llama3)<br>
-2. Starred [modularml/mojo](https://github.com/modularml/mojo)<br>
-3. Starred [himanshugarg08/flutter_give_collect_money](https://github.com/himanshugarg08/flutter_give_collect_money)<br>
-4. Starred [wandb/openui](https://github.com/wandb/openui)<br>
-5. Starred [krishnakumarcn/faded](https://github.com/krishnakumarcn/faded)<br>
+1. Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+2. Starred [meta-llama/llama3](https://github.com/meta-llama/llama3)<br>
+3. Starred [modularml/mojo](https://github.com/modularml/mojo)<br>
+4. Starred [himanshugarg08/flutter_give_collect_money](https://github.com/himanshugarg08/flutter_give_collect_money)<br>
+5. Starred [wandb/openui](https://github.com/wandb/openui)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
