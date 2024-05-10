@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#338](https://github.com/CCExtractor/taskwarrior-flutter/issues/338) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune)<br>
-3. Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
-4. Starred [meta-llama/llama3](https://github.com/meta-llama/llama3)<br>
-5. Starred [modularml/mojo](https://github.com/modularml/mojo)<br>
+1. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Merged PR [#342](https://github.com/CCExtractor/taskwarrior-flutter/pull/342) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Approved [#342](https://github.com/CCExtractor/taskwarrior-flutter/pull/342#pullrequestreview-2050644759) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#338](https://github.com/CCExtractor/taskwarrior-flutter/issues/338) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Starred [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
