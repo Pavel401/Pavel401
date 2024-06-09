@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Dhravya/supermemory](https://github.com/Dhravya/supermemory)<br>
-2. Merged PR [#351](https://github.com/CCExtractor/taskwarrior-flutter/pull/351) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Approved [#351](https://github.com/CCExtractor/taskwarrior-flutter/pull/351#pullrequestreview-2106067503) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
+1. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Starred [Dhravya/supermemory](https://github.com/Dhravya/supermemory)<br>
+3. Merged PR [#351](https://github.com/CCExtractor/taskwarrior-flutter/pull/351) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Approved [#351](https://github.com/CCExtractor/taskwarrior-flutter/pull/351#pullrequestreview-2106067503) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
