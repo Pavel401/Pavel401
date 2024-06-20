@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)<br>
-2. Starred [hi-malik/not-for-you](https://github.com/hi-malik/not-for-you)<br>
-3. Forked [Pavel401/youtube_player_flutter](https://github.com/Pavel401/youtube_player_flutter) from [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter)<br>
-4. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Starred [Dhravya/supermemory](https://github.com/Dhravya/supermemory)<br>
+1. Starred [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)<br>
+2. Starred [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)<br>
+3. Starred [hi-malik/not-for-you](https://github.com/hi-malik/not-for-you)<br>
+4. Forked [Pavel401/youtube_player_flutter](https://github.com/Pavel401/youtube_player_flutter) from [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter)<br>
+5. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
