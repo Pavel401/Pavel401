@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#350](https://github.com/CCExtractor/taskwarrior-flutter/issues/350) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)<br>
-3. Starred [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)<br>
-4. Starred [hi-malik/not-for-you](https://github.com/hi-malik/not-for-you)<br>
-5. Forked [Pavel401/youtube_player_flutter](https://github.com/Pavel401/youtube_player_flutter) from [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter)<br>
+1. Starred [its-me-abhishek/ccsync](https://github.com/its-me-abhishek/ccsync)<br>
+2. Closed issue [#350](https://github.com/CCExtractor/taskwarrior-flutter/issues/350) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Starred [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)<br>
+4. Starred [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)<br>
+5. Starred [hi-malik/not-for-you](https://github.com/hi-malik/not-for-you)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
