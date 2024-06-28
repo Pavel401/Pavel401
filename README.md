@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [its-me-abhishek/ccsync](https://github.com/its-me-abhishek/ccsync)<br>
-2. Closed issue [#350](https://github.com/CCExtractor/taskwarrior-flutter/issues/350) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Starred [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)<br>
-4. Starred [crissNb/Dynamic-Island-Sketchybar](https://github.com/crissNb/Dynamic-Island-Sketchybar)<br>
-5. Starred [hi-malik/not-for-you](https://github.com/hi-malik/not-for-you)<br>
+1. Closed PR [#352](https://github.com/CCExtractor/taskwarrior-flutter/pull/352) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Opened PR [#352](https://github.com/CCExtractor/taskwarrior-flutter/pull/352) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Pushed 1 commit(s) to [Pavel401/taskwarrior-flutter](https://github.com/Pavel401/taskwarrior-flutter)<br>
+4. Starred [its-me-abhishek/ccsync](https://github.com/its-me-abhishek/ccsync)<br>
+5. Closed issue [#350](https://github.com/CCExtractor/taskwarrior-flutter/issues/350) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
