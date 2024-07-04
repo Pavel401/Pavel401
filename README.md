@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Approved [#349](https://github.com/CCExtractor/taskwarrior-flutter/pull/349#pullrequestreview-2159326212) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Starred [andresaraujo/timeago.dart](https://github.com/andresaraujo/timeago.dart)<br>
-3. Pushed 1 commit(s) to [Pavel401/ad_turbo](https://github.com/Pavel401/ad_turbo)<br>
-4. Forked [Pavel401/ad_turbo](https://github.com/Pavel401/ad_turbo) from [hardikkhunt905/ad_turbo](https://github.com/hardikkhunt905/ad_turbo)<br>
-5. Pushed 1 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Pushed 88 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Merged PR [#349](https://github.com/CCExtractor/taskwarrior-flutter/pull/349) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Pushed 5 commit(s) to [BrawlerXull/taskwarrior](https://github.com/BrawlerXull/taskwarrior)<br>
+4. Pushed 1 commit(s) to [BrawlerXull/taskwarrior](https://github.com/BrawlerXull/taskwarrior)<br>
+5. Approved [#349](https://github.com/CCExtractor/taskwarrior-flutter/pull/349#pullrequestreview-2159326212) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
