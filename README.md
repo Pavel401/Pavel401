@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
-2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Merged PR [#356](https://github.com/CCExtractor/taskwarrior-flutter/pull/356) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Approved [#356](https://github.com/CCExtractor/taskwarrior-flutter/pull/356#pullrequestreview-2161872251) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 27 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [compu-flair/LLMs_in_BioMedical](https://github.com/compu-flair/LLMs_in_BioMedical)<br>
+2. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
+3. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Merged PR [#356](https://github.com/CCExtractor/taskwarrior-flutter/pull/356) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Approved [#356](https://github.com/CCExtractor/taskwarrior-flutter/pull/356#pullrequestreview-2161872251) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
