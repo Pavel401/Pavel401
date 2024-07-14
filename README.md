@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)<br>
-2. Starred [compu-flair/LLMs_in_BioMedical](https://github.com/compu-flair/LLMs_in_BioMedical)<br>
-3. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
-4. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Merged PR [#356](https://github.com/CCExtractor/taskwarrior-flutter/pull/356) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [GokhanOzturkIO/Android-RoadMap-4](https://github.com/GokhanOzturkIO/Android-RoadMap-4)<br>
+2. Starred [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)<br>
+3. Starred [compu-flair/LLMs_in_BioMedical](https://github.com/compu-flair/LLMs_in_BioMedical)<br>
+4. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
+5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
