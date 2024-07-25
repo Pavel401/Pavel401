@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [TheHappyBaloney/PujoAtlasKol](https://github.com/TheHappyBaloney/PujoAtlasKol)<br>
-2. Starred [GokhanOzturkIO/Android-RoadMap-4](https://github.com/GokhanOzturkIO/Android-RoadMap-4)<br>
-3. Starred [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)<br>
-4. Starred [compu-flair/LLMs_in_BioMedical](https://github.com/compu-flair/LLMs_in_BioMedical)<br>
-5. Starred [GerevAI/gerev](https://github.com/GerevAI/gerev)<br>
+1. Starred [o-ifeanyi/draw_and_guess](https://github.com/o-ifeanyi/draw_and_guess)<br>
+2. Starred [TheHappyBaloney/PujoAtlasKol](https://github.com/TheHappyBaloney/PujoAtlasKol)<br>
+3. Starred [GokhanOzturkIO/Android-RoadMap-4](https://github.com/GokhanOzturkIO/Android-RoadMap-4)<br>
+4. Starred [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)<br>
+5. Starred [compu-flair/LLMs_in_BioMedical](https://github.com/compu-flair/LLMs_in_BioMedical)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
