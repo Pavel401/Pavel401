@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [matthewbauer/undmg](https://github.com/matthewbauer/undmg)<br>
-2. Starred [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2)<br>
-3. Starred [o-ifeanyi/draw_and_guess](https://github.com/o-ifeanyi/draw_and_guess)<br>
-4. Starred [TheHappyBaloney/PujoAtlasKol](https://github.com/TheHappyBaloney/PujoAtlasKol)<br>
-5. Starred [GokhanOzturkIO/Android-RoadMap-4](https://github.com/GokhanOzturkIO/Android-RoadMap-4)<br>
+1. Starred [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)<br>
+2. Starred [matthewbauer/undmg](https://github.com/matthewbauer/undmg)<br>
+3. Starred [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2)<br>
+4. Starred [o-ifeanyi/draw_and_guess](https://github.com/o-ifeanyi/draw_and_guess)<br>
+5. Starred [TheHappyBaloney/PujoAtlasKol](https://github.com/TheHappyBaloney/PujoAtlasKol)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
