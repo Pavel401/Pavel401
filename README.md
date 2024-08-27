@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Expensify/App](https://github.com/Expensify/App)<br>
-2. Starred [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts)<br>
-3. Starred [matthewbauer/undmg](https://github.com/matthewbauer/undmg)<br>
-4. Starred [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2)<br>
-5. Starred [o-ifeanyi/draw_and_guess](https://github.com/o-ifeanyi/draw_and_guess)<br>
+1. Approved [#354](https://github.com/CCExtractor/taskwarrior-flutter/pull/354#pullrequestreview-2262798737) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 13 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#361](https://github.com/CCExtractor/taskwarrior-flutter/pull/361) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Approved [#361](https://github.com/CCExtractor/taskwarrior-flutter/pull/361#pullrequestreview-2262797957) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
