@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api)<br>
-2. Closed issue [#353](https://github.com/CCExtractor/taskwarrior-flutter/issues/353) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Closed issue [#358](https://github.com/CCExtractor/taskwarrior-flutter/issues/358) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-4. Closed issue [#366](https://github.com/CCExtractor/taskwarrior-flutter/issues/366) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)<br>
+2. Starred [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api)<br>
+3. Closed issue [#353](https://github.com/CCExtractor/taskwarrior-flutter/issues/353) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Closed issue [#358](https://github.com/CCExtractor/taskwarrior-flutter/issues/358) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+5. Closed issue [#366](https://github.com/CCExtractor/taskwarrior-flutter/issues/366) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
