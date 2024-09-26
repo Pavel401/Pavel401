@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
-2. Starred [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)<br>
-3. Starred [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api)<br>
-4. Closed issue [#353](https://github.com/CCExtractor/taskwarrior-flutter/issues/353) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Closed issue [#358](https://github.com/CCExtractor/taskwarrior-flutter/issues/358) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Forked [Pavel401/gallery_saver](undefined) from [danieljiwonkang98/gallery_saver](https://github.com/danieljiwonkang98/gallery_saver)<br>
+2. Starred [danieljiwonkang98/gallery_saver](https://github.com/danieljiwonkang98/gallery_saver)<br>
+3. Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
+4. Starred [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)<br>
+5. Starred [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
