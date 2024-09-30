@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
-2. Starred [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd)<br>
-3. Pushed 1 commit(s) to [Pavel401/davinci](https://github.com/Pavel401/davinci)<br>
-4. Forked [Pavel401/davinci](undefined) from [Imgkl/davinci](https://github.com/Imgkl/davinci)<br>
-5. Pushed 1 commit(s) to [Pavel401/gallery_saver](https://github.com/Pavel401/gallery_saver)<br>
+1. Starred [britannio/in_app_review](https://github.com/britannio/in_app_review)<br>
+2. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
+3. Starred [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd)<br>
+4. Pushed 1 commit(s) to [Pavel401/davinci](https://github.com/Pavel401/davinci)<br>
+5. Forked [Pavel401/davinci](undefined) from [Imgkl/davinci](https://github.com/Imgkl/davinci)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
