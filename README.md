@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)<br>
-2. Starred [britannio/in_app_review](https://github.com/britannio/in_app_review)<br>
-3. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
-4. Starred [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd)<br>
-5. Pushed 1 commit(s) to [Pavel401/davinci](https://github.com/Pavel401/davinci)<br>
+1. Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
+2. Starred [sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)<br>
+3. Starred [britannio/in_app_review](https://github.com/britannio/in_app_review)<br>
+4. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
+5. Starred [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
