@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
-2. Starred [sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)<br>
-3. Starred [britannio/in_app_review](https://github.com/britannio/in_app_review)<br>
-4. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
-5. Starred [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd)<br>
+1. Starred [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens)<br>
+2. Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
+3. Starred [sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)<br>
+4. Starred [britannio/in_app_review](https://github.com/britannio/in_app_review)<br>
+5. Starred [Telosnex/fonnx](https://github.com/Telosnex/fonnx)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
