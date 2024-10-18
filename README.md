@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [raviriley/donna](https://github.com/raviriley/donna)<br>
-2. Starred [Donna-ai/Donna](https://github.com/Donna-ai/Donna)<br>
-3. Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)<br>
-4. Starred [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens)<br>
-5. Starred [lichess-org/mobile](https://github.com/lichess-org/mobile)<br>
+1. Starred [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)<br>
+2. Starred [raviriley/donna](https://github.com/raviriley/donna)<br>
+3. Starred [Donna-ai/Donna](https://github.com/Donna-ai/Donna)<br>
+4. Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)<br>
+5. Starred [jorenvanhee/tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindcss-debug-screens)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
