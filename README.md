@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [md-siam/getx_clean_architecture](https://github.com/md-siam/getx_clean_architecture)<br>
-2. Starred [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)<br>
-3. Starred [raviriley/donna](https://github.com/raviriley/donna)<br>
-4. Starred [Donna-ai/Donna](https://github.com/Donna-ai/Donna)<br>
-5. Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)<br>
+1. Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)<br>
+2. Starred [md-siam/getx_clean_architecture](https://github.com/md-siam/getx_clean_architecture)<br>
+3. Starred [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)<br>
+4. Starred [raviriley/donna](https://github.com/raviriley/donna)<br>
+5. Starred [Donna-ai/Donna](https://github.com/Donna-ai/Donna)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
