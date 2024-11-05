@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-2. Merged PR [#371](https://github.com/CCExtractor/taskwarrior-flutter/pull/371) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-3. Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
-4. Starred [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit)<br>
-5. Starred [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)<br>
+1. Became collaborator on [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+2. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+3. Merged PR [#371](https://github.com/CCExtractor/taskwarrior-flutter/pull/371) in [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+4. Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
+5. Starred [argmaxinc/DiffusionKit](https://github.com/argmaxinc/DiffusionKit)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
