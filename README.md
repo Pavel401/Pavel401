@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)<br>
-2. Starred [ente-io/ente](https://github.com/ente-io/ente)<br>
-3. Starred [GATEOverflow/GO-PDFs](https://github.com/GATEOverflow/GO-PDFs)<br>
-4. Became collaborator on [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
-5. Pushed 2 commit(s) to [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
+1. Starred [MythicApp/Mythic](https://github.com/MythicApp/Mythic)<br>
+2. Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)<br>
+3. Starred [ente-io/ente](https://github.com/ente-io/ente)<br>
+4. Starred [GATEOverflow/GO-PDFs](https://github.com/GATEOverflow/GO-PDFs)<br>
+5. Became collaborator on [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
