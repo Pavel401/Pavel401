@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
-2. Starred [MythicApp/Mythic](https://github.com/MythicApp/Mythic)<br>
-3. Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)<br>
-4. Starred [ente-io/ente](https://github.com/ente-io/ente)<br>
-5. Starred [GATEOverflow/GO-PDFs](https://github.com/GATEOverflow/GO-PDFs)<br>
+1. Starred [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor)<br>
+2. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
+3. Starred [MythicApp/Mythic](https://github.com/MythicApp/Mythic)<br>
+4. Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)<br>
+5. Starred [ente-io/ente](https://github.com/ente-io/ente)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
