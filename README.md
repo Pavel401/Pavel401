@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [ai16z/eliza](https://github.com/ai16z/eliza)<br>
-2. Starred [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor)<br>
-3. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
-4. Starred [MythicApp/Mythic](https://github.com/MythicApp/Mythic)<br>
-5. Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)<br>
+1. Starred [AndreyDAraya/smart_tasks](https://github.com/AndreyDAraya/smart_tasks)<br>
+2. Starred [ai16z/eliza](https://github.com/ai16z/eliza)<br>
+3. Starred [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor)<br>
+4. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
+5. Starred [MythicApp/Mythic](https://github.com/MythicApp/Mythic)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
