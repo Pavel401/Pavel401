@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose)<br>
-2. Starred [AndreyDAraya/smart_tasks](https://github.com/AndreyDAraya/smart_tasks)<br>
-3. Starred [ai16z/eliza](https://github.com/ai16z/eliza)<br>
-4. Starred [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor)<br>
-5. Pushed 1 commit(s) to [Pavel401/Pavel401](https://github.com/Pavel401/Pavel401)<br>
+1. Forked [Pavel401/langchain](https://github.com/Pavel401/langchain) from [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+2. Starred [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose)<br>
+3. Starred [AndreyDAraya/smart_tasks](https://github.com/AndreyDAraya/smart_tasks)<br>
+4. Starred [ai16z/eliza](https://github.com/ai16z/eliza)<br>
+5. Starred [lennartpollvogt/ollama-instructor](https://github.com/lennartpollvogt/ollama-instructor)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
