@@ -19,11 +19,11 @@
 Recent activity ~~so people can stop saying I do nothing~~:
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)<br>
-2. Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
-3. Forked [Pavel401/langchain](https://github.com/Pavel401/langchain) from [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-4. Starred [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose)<br>
-5. Starred [AndreyDAraya/smart_tasks](https://github.com/AndreyDAraya/smart_tasks)<br>
+1. Starred [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer)<br>
+2. Starred [rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)<br>
+3. Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
+4. Forked [Pavel401/langchain](https://github.com/Pavel401/langchain) from [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
+5. Starred [skydoves/server-driven-compose](https://github.com/skydoves/server-driven-compose)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 
