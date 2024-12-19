@@ -16,18 +16,7 @@
 
 
 
-Recent activity ~~so people can stop saying I do nothing~~:
 
-<!--RECENT_ACTIVITY:start-->
-1. Starred [CRED-CLUB/propeller](https://github.com/CRED-CLUB/propeller)<br>
-2. Starred [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer)<br>
-3. Starred [rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)<br>
-4. Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
-5. Forked [Pavel401/langchain](https://github.com/Pavel401/langchain) from [langchain-ai/langchain](https://github.com/langchain-ai/langchain)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
 
 # Blog posts
 
