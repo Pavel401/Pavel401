@@ -3,21 +3,6 @@
 
 
 
-# 💫About Me :
-
-🔭 I’m currently working on [TaskWarrior](https://github.com/Pavel401/taskwarrior-flutter) & [Job Scraper using Go](https://github.com/Pavel401/Jobs-Scraper)
-
-🌱 I’m currently learning Flutter, Python,CP
-
-💬 Ask me about Flutter, CP
-
-📫 How to reach me pavelalam401@gmail.com
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavel401&label=Profile%20views&color=0e75b6&style=flat" alt="pavel401" /> </p>
-
-
-
-
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
