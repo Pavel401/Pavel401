@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mabud Alam
+# Hi 👋, I'm Mabud 
 
 **AI Engineer** | Founding Engineer at [FeatsClub](https://featsclub.com) | Building intelligent systems with RAG & multi-agent architectures
 
@@ -42,8 +42,8 @@ I specialize in developing production-ready AI applications, with a focus on Ret
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-mabud-alam-444a87133) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mabud_alam_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabud/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/mabud_tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mabud.dev-blue)](https://mabud.dev)
 
 ## 📊 GitHub Stats
