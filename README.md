@@ -48,7 +48,7 @@ I specialize in developing production-ready AI applications, with a focus on Ret
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Pavel401&color=blueviolet)
 
 ---
 
